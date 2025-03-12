@@ -3,3 +3,4 @@
 {"name":"euma","vers":"1.0.7","deps":[],"cksum":"ee0620c5086973ccdd3e6bbd73e7573ee775aca7f8d87c5df2c0b8b1739b6c38","features":{},"yanked":false}
 {"name":"euma","vers":"1.1.0","deps":[],"cksum":"fd89da78a4d72f2d22704a7a323a6faf974079d7cd91be8661cb3b48e16d1b3e","features":{},"yanked":false}
 {"name":"euma","vers":"1.2.0","deps":[],"cksum":"6fc9ef2b64722cba58edd77c717e9710851d903af8e309f03fbb6f483e000670","features":{},"yanked":false}
+{"name":"euma","vers":"1.2.1","deps":[],"cksum":"a1914974c1fa3a82f781e8f945e4446ebd959bdbb77eddd5551d2077ed0cc3c6","features":{},"yanked":false}
