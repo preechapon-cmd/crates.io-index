@@ -1,2 +1,3 @@
 {"name":"poodio","vers":"0.0.0","deps":[],"cksum":"c5ceceb6ecf5d4b48a03d0581623e29937933bc50f030aa9933c3996d131bf25","features":{},"yanked":false}
 {"name":"poodio","vers":"0.0.1","deps":[{"name":"cpal","req":"^0.15.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dfe4dc89292013e247fd8350bb0a09b1d95de1489f174c7a39da364781336989","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"poodio","vers":"0.0.2","deps":[{"name":"cpal","req":"^0.15.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fdc8493e56ebce5c92d1cfb62870af1d15cbfbe5a668a95ec2e9baee8d898be3","features":{},"yanked":false,"rust_version":"1.70"}
