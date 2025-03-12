@@ -1,0 +1,1 @@
+{"name":"spritesheet_detector","vers":"0.1.0","deps":[{"name":"image","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09901af43e36012d8a4c0c9f08770a7f761810b483829a7f8cb45ae083f9bfaf","features":{},"yanked":false}
