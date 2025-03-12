@@ -1,0 +1,1 @@
+{"name":"contiguous-arena","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32f38f6b9a4591c928c744703465f039182b41d5e3e1af5b5d78f42eca7fc697","features":{},"yanked":false}

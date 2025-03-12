@@ -1,0 +1,3 @@
+{"name":"array_list","vers":"0.1.0","deps":[],"cksum":"498fdf422d27619b69e288777d7c6cd1314766be25b2e42339f4204356ccaff3","features":{},"yanked":false,"rust_version":"1.71.1"}
+{"name":"array_list","vers":"0.2.0","deps":[],"cksum":"7745a260f646d2bd5128a99cd289123d5aa8f47d26a03ff27f19fa7eee82c043","features":{},"yanked":false,"rust_version":"1.71.1"}
+{"name":"array_list","vers":"0.3.0","deps":[],"cksum":"41a3d609f8c6fac37133ffa05b463e5f4851cd7995890f46571462016d943edf","features":{},"yanked":false,"rust_version":"1.71.1"}

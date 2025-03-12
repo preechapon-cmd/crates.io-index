@@ -1,0 +1,11 @@
+{"name":"linux-boot-params","vers":"0.1.0","deps":[],"cksum":"c366bde75fcd966295f8849d0af792ffb38a4569e192a755ae7ba98e3f82cba0","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.9.3","deps":[],"cksum":"2b9f3c0ae6a28c55f4a49b920385ae9a70e8a7d3f06b01102fa9a3564178d5da","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.9.4","deps":[],"cksum":"42eac65275873aa1b61dbb7bd0e0e61585f24b982b1589e8bd06a52c54208ab2","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.10.0","deps":[],"cksum":"becb003580243c64f7d5e1082ecdca9e2149eaadaab63a46034f7fc09bef5e55","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.10.1","deps":[],"cksum":"e8808e4b992e4f31afa89830fc24bb2aea06ac6b011ec73d8dbca7cf46ff8c01","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.10.2","deps":[],"cksum":"b3b7c0c5351b13335c0e0262502e663e32609ce9cf714e3bb12d0b53f91157da","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.10.3","deps":[],"cksum":"3e27de5f00ff9a7bc766bb6abe8dca3c7957825a3a26d48ba912edb793aac87f","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.11.0","deps":[],"cksum":"e5614aa2635b35ab7241eb1b50bac5bbe1cf1460128856977bc246c19b3a5a73","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.11.1","deps":[],"cksum":"ae10356728a112775805e7edf459d26892b1c535e54471741a982464eeaf0fde","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.11.2","deps":[],"cksum":"e8754352fc0edec693d682687968736c07ee10e622ec10ffea40eb47dcd647b8","features":{},"yanked":false}
+{"name":"linux-boot-params","vers":"0.11.3","deps":[],"cksum":"0026f51c05bde25373e5dbe763f62a4d9a1e24db3bc72dbba27e21c9bbc646b4","features":{},"yanked":false}

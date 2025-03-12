@@ -1,0 +1,1 @@
+{"name":"xir-cranelift","vers":"0.1.1","deps":[{"name":"xir","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3963448e52d6cf1f75195bdafc74da2d5929702d7d2e4cf6ed83cddc9ddb9380","features":{},"yanked":false}

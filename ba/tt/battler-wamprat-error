@@ -1,0 +1,1 @@
+{"name":"battler-wamprat-error","vers":"0.1.0","deps":[{"name":"battler-wamprat-error-proc-macro","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3752a4d23d2237012bdcf542ad70b66ac61e3d180a55c4ccc87f04d4b165d504","features":{},"yanked":false}

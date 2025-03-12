@@ -1,0 +1,2 @@
+{"name":"cynthia_con","vers":"0.1.0","deps":[{"name":"termsize","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f9c10f2f779164f2e2257db30ec1cc7734167512b6eca1c8517e28b69970efc","features":{},"yanked":false}
+{"name":"cynthia_con","vers":"0.1.1","deps":[{"name":"termsize","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1e7e8893beb4cc9d0699024fb1edb180a167247cbfe727a243c25ddd297f6a5","features":{},"yanked":false}

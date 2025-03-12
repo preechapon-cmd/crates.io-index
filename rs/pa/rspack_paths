@@ -1,0 +1,1 @@
+{"name":"rspack_paths","vers":"0.2.0","deps":[{"name":"camino","req":"^1.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff23c6f906b4b8c7eb1bd58829a02c3e03612831807953729af8867bbfc7b3cd","features":{},"yanked":false}

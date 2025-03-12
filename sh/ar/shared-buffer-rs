@@ -1,0 +1,2 @@
+{"name":"shared-buffer-rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt","macros","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a77d62eb923f414b5a183450d02a1a0b431fe322b07a47a8dc2b00258b23d0d1","features":{},"yanked":false}
+{"name":"shared-buffer-rs","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["rt","macros","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e24bcd1cd0febd06190339c351509f19707b5df2f8766d3e09074663c5c5c89f","features":{},"yanked":false}

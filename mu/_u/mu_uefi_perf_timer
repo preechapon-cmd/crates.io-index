@@ -1,0 +1,1 @@
+{"name":"mu_uefi_perf_timer","vers":"2.0.0","deps":[{"name":"aarch64-cpu","req":"^10.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch=\"aarch64\")","kind":"normal"}],"cksum":"b80967534abac41341f05b99ab7ba78ac16f1a9fd67512ef2916e6fb3b8bc601","features":{"default":[],"validate_cpu_features":[]},"yanked":false}

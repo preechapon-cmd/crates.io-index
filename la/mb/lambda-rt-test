@@ -1,0 +1,1 @@
+{"name":"lambda-rt-test","vers":"0.1.1","deps":[{"name":"lambda-rt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cc772bbde40a679ea1e171463dbce03ce92534469651316e7b788440b025900","features":{},"yanked":false}

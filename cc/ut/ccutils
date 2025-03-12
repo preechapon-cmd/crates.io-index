@@ -1,0 +1,2 @@
+{"name":"ccutils","vers":"0.1.0","deps":[],"cksum":"fca3c0ee166b540a27c7baa89aeed3b77d1a0fa31f91127278c7a41ad6f2a82c","features":{"key":[],"sync":[]},"yanked":false}
+{"name":"ccutils","vers":"0.1.1","deps":[{"name":"futures","req":"^0.3.30","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f8eadddd6729a68a1a5e5961e2c8631b3d51adf65cee4f872054739bc8c137e","features":{"collections":[],"key":[],"sync":[]},"features2":{"futures":["dep:futures"]},"yanked":false,"v":2}

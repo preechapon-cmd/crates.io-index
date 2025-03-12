@@ -1,0 +1,3 @@
+{"name":"hnefatafl","vers":"0.0.1-alpha","deps":[],"cksum":"c35309cf183a17bca28792c719f094876d0c69dfdf7e07fe9a5f79e930b0a56e","features":{},"yanked":false}
+{"name":"hnefatafl","vers":"0.0.1-beta","deps":[{"name":"primitive-types","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fc9c4636569565f528ea27ee494b0fe4e02b2dc081b79392e53717882191d40","features":{"demo":[]},"yanked":false}
+{"name":"hnefatafl","vers":"0.0.1","deps":[{"name":"primitive-types","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94573b3aef63d664d30fb6d8308145083462684569b6a6d3540e8a81c7e668e8","features":{"demo":[]},"yanked":false}

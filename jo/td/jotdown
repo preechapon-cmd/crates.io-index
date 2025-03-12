@@ -1,0 +1,11 @@
+{"name":"jotdown","vers":"0.1.0","deps":[],"cksum":"791cdfc00394bec07a92cf16f4b54b653a62307d17f42ddb671b0401f8f84281","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.2.0","deps":[],"cksum":"784bf7de67dfc6d515d3914d634fa00717e78449c0db9c6595c8658ce7868798","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.2.1","deps":[],"cksum":"e232aa61bd899d6142f01480d5622c7f3edb82fe29cd1f6c9ed3a462219916f3","features":{"default":["html"],"deterministic":[],"html":[],"suite":[],"suite_bench":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.0","deps":[],"cksum":"be33e29076e69562dc112ca75cd66d73a0dc5bfc2f574a7c244fe54e71cdae25","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.1","deps":[],"cksum":"5938b87183859cce45256f89ba9be880cc1fc7e70e08d43ea04da4dc6edf6063","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.3.2","deps":[],"cksum":"d3c1b81e2665d2cf501a82c93164caf3f56919d73611e8d53340ba352912c996","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false}
+{"name":"jotdown","vers":"0.4.0","deps":[],"cksum":"dc48414793f0d595fb9ae4af25145ec3f30a4eee0750537c86a6ec8f6b1ffc03","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.4.1","deps":[],"cksum":"b87ebc8a1c0fdfdedb65abbffb023e45ebbbfe089625f93f6f5acc56685c0abf","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.5.0","deps":[],"cksum":"3fff02adc563a0901266af314a47aa676f950a2f328a60b20691fdba0946fd98","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.6.0","deps":[],"cksum":"19fa1db3b285830176c8a940d4e3376679772bee9f58a83dd9285a4a54e30f6e","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"jotdown","vers":"0.7.0","deps":[],"cksum":"5afa77b05ee2811a1c1f4d6b7dce44b65bad966c81072e55ea604d084ad4162b","features":{"default":["html"],"deterministic":[],"html":[]},"yanked":false,"rust_version":"1.56"}

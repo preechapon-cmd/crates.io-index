@@ -1,0 +1,1 @@
+{"name":"midix_synth","vers":"0.0.0","deps":[{"name":"midix","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de2b289632755491e41704e24a6d945ae440b2450166790d9fba99734361c97","features":{},"yanked":false}

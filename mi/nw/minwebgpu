@@ -1,0 +1,1 @@
+{"name":"minwebgpu","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"19531ae3e369ac3a2a4a9c001075e625571124754bb25130d87ca9ac3cc5219b","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}

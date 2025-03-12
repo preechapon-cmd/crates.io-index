@@ -1,0 +1,1 @@
+{"name":"meatpack","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf2a77152078de607ebe65648d2bdc328ccace61b1c3e4e0e4ff21644aacd974","features":{},"yanked":false}

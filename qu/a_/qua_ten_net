@@ -1,0 +1,1 @@
+{"name":"qua_ten_net","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54b7afc8ffcb7a3bc5d9894c5a8a7be171d47d7f2a1b4d2cf8953acaa2ef8a22","features":{},"yanked":false}

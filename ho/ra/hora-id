@@ -1,0 +1,1 @@
+{"name":"hora-id","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8fa57837fed2bf88c4aaacebbf46d926003b3fe88f79e85409133fefa84e7f0","features":{},"features2":{"chrono":["dep:chrono"]},"yanked":false,"v":2}

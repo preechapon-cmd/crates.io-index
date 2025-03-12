@@ -1,0 +1,2 @@
+{"name":"cutup","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23a8d541f9288739b60361bb556406681e7e40e5263e7a76999188d30ac4e40e","features":{},"yanked":false}
+{"name":"cutup","vers":"0.1.1","deps":[{"name":"nalgebra","req":"^0.33.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35561641c881811feeb6e9ce69fff2d219b4c18a9dd7cae0935c2e83e49f9057","features":{},"yanked":false}

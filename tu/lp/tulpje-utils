@@ -1,0 +1,1 @@
+{"name":"tulpje-utils","vers":"0.11.0","deps":[{"name":"reqwest","req":"^0.12.9","features":["blocking","charset","h2","http2","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"93956e5be792236b0f5eb03a077ac888dfe15e97056f1f16c872c6dd183f39f8","features":{},"yanked":false}

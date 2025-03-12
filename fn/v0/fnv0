@@ -1,0 +1,1 @@
+{"name":"fnv0","vers":"1.0.0","deps":[{"name":"proc_strarray","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a1d193ffe8121360d15e6da3e77f6d452922e040d495a09a2958908200057d6","features":{},"yanked":false,"rust_version":"1.57.0"}

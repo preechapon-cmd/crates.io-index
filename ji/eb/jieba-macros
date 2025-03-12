@@ -1,0 +1,1 @@
+{"name":"jieba-macros","vers":"0.7.1","deps":[{"name":"phf_codegen","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c676b32a471d3cfae8dac2ad2f8334cd52e53377733cca8c1fb0a5062fec192","features":{},"yanked":false}

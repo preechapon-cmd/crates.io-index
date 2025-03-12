@@ -1,0 +1,14 @@
+{"name":"wasi-preview1-component-adapter-provider","vers":"23.0.1","deps":[],"cksum":"dba2aacb2ea1d483b13ae73bcdda9069dbf7424b20f72e0ad02d6988e4ec0bbb","features":{},"yanked":false}
+{"name":"wasi-preview1-component-adapter-provider","vers":"23.0.2","deps":[],"cksum":"f91d3d13afef569b9fc80cfbb807c87c16ef49bd3ac1a93285ea6a264b600d2d","features":{},"yanked":false}
+{"name":"wasi-preview1-component-adapter-provider","vers":"24.0.0","deps":[],"cksum":"36e6cadfa74538edd5409b6f8c79628436529138e9618b7373bec7aae7805835","features":{},"yanked":false}
+{"name":"wasi-preview1-component-adapter-provider","vers":"25.0.0","deps":[],"cksum":"c98ddc58309bd00f5e3dd61e5c8e809f22cc8966dceea5337740bcf25840475d","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"25.0.1","deps":[],"cksum":"d573ba2346e809ae5ab771aa96331b8a967c6653c893e7e95ca77a99025c3e11","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"24.0.1","deps":[],"cksum":"0f76d9fa52234153eeb40b088de91a8c13dc28a912cf6f31cd89ca4bac9024e0","features":{},"yanked":false}
+{"name":"wasi-preview1-component-adapter-provider","vers":"27.0.0","deps":[],"cksum":"852f574fc56f03164308b47594d105d188534784f5338d96a8726605cb558f66","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"28.0.0","deps":[],"cksum":"62b690add281badfdf7cf058d064d5efc5199568d23d9aae4029a77ead669e14","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"28.0.1","deps":[],"cksum":"18dd0c48ce14b2d45cadeba3aa045df8df04df81e96c9cfcba62e40c6f8562fa","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"29.0.0","deps":[],"cksum":"1cebc7c0dafbb3247dbd2e6cb819258589d4635046d65e92c93ba583903d6ef4","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"29.0.1","deps":[],"cksum":"dcd9f21bbde82ba59e415a8725e6ad0d0d7e9e460b1a3ccbca5bdee952c1a324","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"30.0.0","deps":[],"cksum":"3c08eb775273723c6022d56add251f2a7678f4e7fd2d0e5e3f42bf189c0c07f1","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"30.0.1","deps":[],"cksum":"ccd822deff736463c4c343ced6ffc4364bb862f27658a13e29a5510b1255f2cc","features":{},"yanked":false,"rust_version":"1.60.0"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"30.0.2","deps":[],"cksum":"ddbd7f2a9e3635abe5d4df93b12cadc8d6818079785ee4fab3719ae3c85a064e","features":{},"yanked":false,"rust_version":"1.60.0"}

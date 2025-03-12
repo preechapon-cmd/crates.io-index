@@ -1,0 +1,2 @@
+{"name":"musemap","vers":"0.1.0-alpha","deps":[{"name":"museair","req":"=0.3.0-rc6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957a0b1690c5446c8f32d5832e91e67cafab97d717009b3a093c5eae55848f66","features":{},"yanked":false}
+{"name":"musemap","vers":"0.1.0","deps":[{"name":"museair","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a900c90765e8675edd727a32a7085eaf3f85fe4c7b65e2906e8c40355ecf615","features":{},"yanked":false}

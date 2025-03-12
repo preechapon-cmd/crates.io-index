@@ -1,0 +1,3 @@
+{"name":"simstring_rust","vers":"0.1.0","deps":[],"cksum":"80f2fba857a9e8c9394924ca98eed53dc40a7d0f5e01c530ae273ecc51e3a876","features":{},"yanked":false}
+{"name":"simstring_rust","vers":"0.1.1","deps":[],"cksum":"31434b71a5658f4b9b421d999468e4b5eff4e228a69fb3f8c39703ad53f3d0ba","features":{},"yanked":false}
+{"name":"simstring_rust","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e101bf00d396d3d96b55d6016f9a5b21329927a8d21e06f5acfe5a8845399966","features":{},"yanked":false}

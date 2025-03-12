@@ -1,0 +1,2 @@
+{"name":"interns","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.15.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"191cdea5652d9d6be795432990c08b069e206785909211b6d2be7e1b92e50211","features":{},"yanked":false}
+{"name":"interns","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.15.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9f22b80f0ac9d51c135b775742653d64dd40a1fabc85de3e79aad5e28e7d7a6","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"iter_help","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1265f93e89893f1e486abf0786b00531dc8dcc4ac7a7ba5415f56ebde7b419ec","features":{},"yanked":false}
+{"name":"iter_help","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8928fa1bc71015b60c917c71d69270d98c57efe3d835f24a10c47b940d0bbf2c","features":{},"yanked":false}

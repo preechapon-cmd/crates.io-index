@@ -1,0 +1,2 @@
+{"name":"sdl3-main-macros","vers":"0.1.0","deps":[],"cksum":"fdaa4ba16c1796400a88f7606dacafd632fe0da49c01741b0f14e6a764cc79f0","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
+{"name":"sdl3-main-macros","vers":"0.1.1","deps":[],"cksum":"ae58599dd01dd58b4cafa3a52d3a80cd2fb3599764defb5ee534de8f340f2010","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}

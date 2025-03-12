@@ -1,0 +1,2 @@
+{"name":"disasm-core","vers":"0.5.0","deps":[],"cksum":"5b4bd28125c606f277a9981aee994b609ce0587413f924ac92aa151c8eabaaca","features":{"default":["print"],"mnemonic":[],"print":["std","mnemonic"],"std":[]},"yanked":false,"rust_version":"1.61"}
+{"name":"disasm-core","vers":"0.5.1","deps":[],"cksum":"c2c4322d67993d298d516be847a7d252e2c0207a443ac9b11267150b97d57135","features":{"default":["print"],"mnemonic":[],"print":["std","mnemonic"],"std":[]},"yanked":false,"rust_version":"1.64"}

@@ -1,0 +1,1 @@
+{"name":"vitaminc-traits","vers":"0.1.0-pre2","deps":[{"name":"vitaminc-protected","req":"^0.1.0-pre","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e44d4920275ee59860a36b0c70804915dea971ab98073c0a34e4853af764936","features":{},"yanked":false,"rust_version":"1.61.0"}

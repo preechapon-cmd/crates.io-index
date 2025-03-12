@@ -1,0 +1,1 @@
+{"name":"rpgmad-lib","vers":"1.0.1","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4deb0119fb8f44e457dc86dcfe3dbfd6da6a24acab58befb916487a161f87ec","features":{},"features2":{"rayon":["dep:rayon"]},"yanked":false,"rust_version":"1.60.0","v":2}

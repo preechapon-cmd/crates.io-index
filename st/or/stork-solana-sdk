@@ -1,0 +1,1 @@
+{"name":"stork-solana-sdk","vers":"0.0.5","deps":[{"name":"anchor-lang","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"833792ac1e451a6a4357839d9ca95ea635d00790fdeee3fbb2a5c12767510cea","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"enum-update","vers":"0.1.0","deps":[{"name":"enum-update-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60954b3e42c79293f97cd0c4c06ae7804389cbf6551969a978f60a808ac166db","features":{},"yanked":false}
+{"name":"enum-update","vers":"0.1.1","deps":[{"name":"enum-update-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3796155c733dc28be30569ee9662bf55fe43d9a1782af4b4659a705ff86fe644","features":{},"yanked":false}

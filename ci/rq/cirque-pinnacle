@@ -1,0 +1,1 @@
+{"name":"cirque-pinnacle","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b2845fb783829a29a2f7418ed3acfbb28bd37a30301b16fc0a4f3024fd67aae","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"repo_path_lib","vers":"1.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"assert_fs","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"959b23561b61ee422be767c27ef07469f32f235eb1c61d0f266c962e63706caa","features":{},"yanked":false}

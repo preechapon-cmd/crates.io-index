@@ -1,0 +1,1 @@
+{"name":"id_newtype","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.100","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"0a5f363507cd9c04175116d7fab8b9a7df87e95f87c1ee6a82d22c8e98249665","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"zkstack_cli_git_version_macro","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9511345ae04ef77cf16e4bb6307772362dacf0e34be46a95801a38979c5b1f1e","features":{},"yanked":false}

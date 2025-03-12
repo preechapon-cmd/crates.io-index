@@ -1,0 +1,4 @@
+{"name":"km-crates-publish-test","vers":"0.0.0-development","deps":[],"cksum":"b499701eebc5acf59b5dd1418ce9bc4cfeae89637a83e6704780b3c10fd7a0c6","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.0.0","deps":[],"cksum":"502c3d02f5a3b7c6a0975917e83064021cc3e5ec646048acb02732f8a081f019","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.1.0","deps":[],"cksum":"448332aeb23cb88983bd468dfa6657d84f143e078673fc3b8523bde62983302f","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.9.0","deps":[],"cksum":"dca2b3a686f6cdb7f32b52ab42eb0467151dc995642d23df083ebf1e6982e136","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}

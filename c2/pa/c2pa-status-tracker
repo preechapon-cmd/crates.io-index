@@ -1,0 +1,5 @@
+{"name":"c2pa-status-tracker","vers":"0.1.0","deps":[],"cksum":"ec266c1d423452366bd98d97aef750540471985bd48d6d2ab25ff0619db3f4c6","features":{},"yanked":false,"rust_version":"1.76.0"}
+{"name":"c2pa-status-tracker","vers":"0.2.0","deps":[],"cksum":"a4b08837c1c8440324d71c4019bc700ac8522c9d3e02928be6d367b28a0f35fa","features":{},"yanked":false,"rust_version":"1.76.0"}
+{"name":"c2pa-status-tracker","vers":"0.3.0","deps":[],"cksum":"aaf8acea8ceffa377f860f7fa3be0ae6a6bfb3a3b8de29c06fa5b81af9fa0d10","features":{},"yanked":false,"rust_version":"1.82.0"}
+{"name":"c2pa-status-tracker","vers":"0.4.0","deps":[],"cksum":"b6ebdd994bf9991da9572064898fbbfe4e4b78ac7fc6dbd55ce770659ffd61b1","features":{},"yanked":false,"rust_version":"1.82.0"}
+{"name":"c2pa-status-tracker","vers":"0.5.0","deps":[],"cksum":"dc4593db8fcabe7551e5f23d31b0e520921f7fe6051b33a5472cda925e975500","features":{},"yanked":false,"rust_version":"1.82.0"}
