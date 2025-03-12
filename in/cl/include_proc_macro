@@ -5,3 +5,4 @@
 {"name":"include_proc_macro","vers":"1.0.4","deps":[],"cksum":"187ec7170c40c14d95691d8dcd6ab63eb1460e64ed4b8c4e4739381834feac1e","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"1.0.5","deps":[],"cksum":"e4aa19bc362c75676663f928749ecdb01a16b0ff152e7c594b5210a863454945","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"1.0.6","deps":[],"cksum":"6bbe458fa3f0ad566d289a138721f769d0282d769fa68e037a6ee8a22a14755c","features":{},"yanked":false}
+{"name":"include_proc_macro","vers":"1.2.0","deps":[],"cksum":"1e16ef87782a79923cc552c0399c8248a9b2ec5cdf5df4daae358fe735d7c309","features":{},"yanked":false}
