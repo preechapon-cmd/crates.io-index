@@ -1,1 +1,2 @@
 {"name":"usrbio","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1458be32ddce66aa3caeed413d11cfcbfb62825f8cad59e1cdef7891fe4bd989","features":{},"yanked":false}
+{"name":"usrbio","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"029c692d8c63e92d5772924e697f0d59c4db93ae97340c5c983644978fe947c8","features":{},"yanked":false}
