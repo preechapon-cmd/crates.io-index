@@ -7,3 +7,4 @@
 {"name":"yerevan","vers":"0.1.6","deps":[],"cksum":"ef679ab92c49eba544346475bdddfa894430c1325b21aae4726450448d05cccf","features":{},"yanked":false}
 {"name":"yerevan","vers":"0.2.0","deps":[],"cksum":"bb0d10b89d91e87120bdd0151482352c76bc84304be6b2e7000c9a1513deb636","features":{},"yanked":false}
 {"name":"yerevan","vers":"0.2.2","deps":[],"cksum":"4a11efc3256f928f0d802227e11f597494e85cc08df2f90bb4e0197c1ee166f4","features":{},"yanked":false}
+{"name":"yerevan","vers":"0.2.3","deps":[],"cksum":"9676d97210f956b5548ea285a6744f3ae82d845ec0a9906b7cbc85cd61c9f3c0","features":{},"yanked":false}
