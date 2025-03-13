@@ -6,3 +6,4 @@
 {"name":"searcher_txt","vers":"1.2.3","deps":[],"cksum":"041b2fb8020500d678d144d24849b355fdde8c1d2f9a398d2d0a23d2dec0234c","features":{},"yanked":false}
 {"name":"searcher_txt","vers":"1.2.4","deps":[],"cksum":"90eed053ca1e1e06a08c589a7df3ce428aab0ff78f97b350b1d201b6eb65203b","features":{},"yanked":false}
 {"name":"searcher_txt","vers":"1.2.5","deps":[{"name":"clap","req":"^4.5.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40dcc72ccafa2ee6d22c632a2e0e22ec6a699168e01379173bd6de9bf8bd3cca","features":{},"yanked":false}
+{"name":"searcher_txt","vers":"1.2.6","deps":[{"name":"clap","req":"^4.5.31","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"589d6da6951c03e0ab73d44dbcbd2a0dedb6e70af5492e45d4ddcec3badea847","features":{},"yanked":false}
