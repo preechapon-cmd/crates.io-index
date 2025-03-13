@@ -6,5 +6,5 @@
 {"name":"botan-src","vers":"0.30101.1","deps":[],"cksum":"a7694cfea31433b099f0f2b50cf18f4962befcb12c7b2b54beb1d93128e8119f","features":{},"yanked":false}
 {"name":"botan-src","vers":"0.30101.2","deps":[],"cksum":"aaaf0426c00371ec87f150daa40f3a8f149c6e8b9646d5fafa30888cacb2bc9f","features":{},"yanked":false}
 {"name":"botan-src","vers":"0.30500.1","deps":[],"cksum":"dddc9b565df44dc13011eda5b70af00fae4a2ab886f66bd0e08725fe576fa460","features":{},"yanked":false,"rust_version":"1.64"}
-{"name":"botan-src","vers":"0.30701.1","deps":[],"cksum":"ea2895fd808614fb47dd79ed916b7d036875f1dec0c27196818ad333e1c08036","features":{},"yanked":false,"rust_version":"1.64"}
+{"name":"botan-src","vers":"0.30701.1","deps":[],"cksum":"ea2895fd808614fb47dd79ed916b7d036875f1dec0c27196818ad333e1c08036","features":{},"yanked":true,"rust_version":"1.64"}
 {"name":"botan-src","vers":"0.30701.2","deps":[],"cksum":"8c4e1c7910f3b4712aed10e4259eca77e79ed84c1b023098c8eac596b993fc44","features":{},"yanked":false,"rust_version":"1.64"}
