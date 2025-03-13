@@ -1,1 +1,2 @@
 {"name":"exp_backoff","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a005c1e47fde86798375eabb6114f4325c18b753b4c4c34099122fe16715bb43","features":{},"yanked":false}
+{"name":"exp_backoff","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37d49cb6a9387648e0bc9b4160d0bde1ccc70a30540a02bcec65b125a14065d8","features":{},"yanked":false}
