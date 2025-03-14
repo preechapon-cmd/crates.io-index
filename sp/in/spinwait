@@ -1,1 +1,2 @@
 {"name":"spinwait","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaacd2116d4b51d0836e16a072af4e1ea73a19c34a8125f462e35f812cd4685f","features":{},"yanked":false}
+{"name":"spinwait","vers":"0.1.1","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39887c84ff1018efe4fc39b1b4ebbb717f935dde2aecfa79f33b9ca8ca6d0078","features":{},"yanked":false}
