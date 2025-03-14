@@ -1,0 +1,1 @@
+{"name":"bml_grapher","vers":"0.1.0","deps":[{"name":"minifb","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ade817f65a51669abbf55cd9e82d9744f1cbc86482e795283e9956fa3dadf739","features":{},"yanked":false}
