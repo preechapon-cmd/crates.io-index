@@ -9,3 +9,4 @@
 {"name":"include_proc_macro","vers":"1.2.1","deps":[],"cksum":"d58c5ef1bbc676d917eb7a75bf9cecdff1268244e769e5edf1dbc61cc7d2f602","features":{},"yanked":true}
 {"name":"include_proc_macro","vers":"1.1.1","deps":[],"cksum":"d075b67c4b3c3fbe53fb3b35bd570b0d5a22974dbb434f93e531e1e87d52fedf","features":{},"yanked":true}
 {"name":"include_proc_macro","vers":"1.1.0","deps":[],"cksum":"bea135cf7b494140deeb54b47c72e3183052e2890e6022751dbcd222fa967283","features":{},"yanked":true}
+{"name":"include_proc_macro","vers":"2.0.0","deps":[],"cksum":"5ccfb472cd41d4f42c2e59d22e364d7d3d99e14ee4a25cfd4ae8e8fb1502bcdd","features":{},"yanked":false}
