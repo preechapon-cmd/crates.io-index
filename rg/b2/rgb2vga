@@ -1,0 +1,1 @@
+{"name":"rgb2vga","vers":"1.0.0","deps":[{"name":"image","req":"^0.25.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"libm","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6be9137fe809a62d9cd54e06114f6816b45234e047ae356c1b570bbff85f44c5","features":{},"yanked":false}
