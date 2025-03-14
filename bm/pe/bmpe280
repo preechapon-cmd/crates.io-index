@@ -1,1 +1,2 @@
 {"name":"bmpe280","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a7c739ccb1e94b4194a070ccf7faf6d35bcb7ce63a3eba4e89c930fbf3d9bd5","features":{},"yanked":false}
+{"name":"bmpe280","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c78da8d46bfa19c7a3f3fec31bfd1ff22a40c62500b418a7bf73cc3b749b9e86","features":{},"yanked":false}
