@@ -7,8 +7,8 @@
 {"name":"include_proc_macro","vers":"1.0.6","deps":[],"cksum":"6bbe458fa3f0ad566d289a138721f769d0282d769fa68e037a6ee8a22a14755c","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"1.2.0","deps":[],"cksum":"1e16ef87782a79923cc552c0399c8248a9b2ec5cdf5df4daae358fe735d7c309","features":{},"yanked":true}
 {"name":"include_proc_macro","vers":"1.2.1","deps":[],"cksum":"d58c5ef1bbc676d917eb7a75bf9cecdff1268244e769e5edf1dbc61cc7d2f602","features":{},"yanked":true}
-{"name":"include_proc_macro","vers":"1.1.1","deps":[],"cksum":"d075b67c4b3c3fbe53fb3b35bd570b0d5a22974dbb434f93e531e1e87d52fedf","features":{},"yanked":true}
-{"name":"include_proc_macro","vers":"1.1.0","deps":[],"cksum":"bea135cf7b494140deeb54b47c72e3183052e2890e6022751dbcd222fa967283","features":{},"yanked":true}
+{"name":"include_proc_macro","vers":"1.1.1","deps":[],"cksum":"d075b67c4b3c3fbe53fb3b35bd570b0d5a22974dbb434f93e531e1e87d52fedf","features":{},"yanked":false}
+{"name":"include_proc_macro","vers":"1.1.0","deps":[],"cksum":"bea135cf7b494140deeb54b47c72e3183052e2890e6022751dbcd222fa967283","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.0","deps":[],"cksum":"5ccfb472cd41d4f42c2e59d22e364d7d3d99e14ee4a25cfd4ae8e8fb1502bcdd","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.1","deps":[],"cksum":"25697b85f3cfdd055b5f9fcd9482cbba9c579531c650265dc6ce75c662f2ab81","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.2","deps":[],"cksum":"bb036d588993426e8519276ab868035820ab996e60f5497971417b3854b1f6c4","features":{},"yanked":false}
