@@ -1,0 +1,1 @@
+{"name":"lua-bundle","vers":"0.1.0","deps":[{"name":"toml","req":"^0.8.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8e35d832a9b79771e42bc4bef4312de30aef1d08dd987e59832613e955c6715","features":{},"yanked":false}
