@@ -1,1 +1,2 @@
 {"name":"leptos_ui","vers":"0.1.0","deps":[],"cksum":"c0c0033eda4def1f08a21c2a1ad1035e9a3307d0f1ec56bed7502f990372e509","features":{},"yanked":false}
+{"name":"leptos_ui","vers":"0.1.1","deps":[{"name":"leptos","req":"^0.7","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tw_merge","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c2b2620206cb5fb61bad066b198aff27247a4e5ca98bc18fbc195f742a4d9eb","features":{},"yanked":false}
