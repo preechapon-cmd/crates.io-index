@@ -1,1 +1,2 @@
 {"name":"crispii_errors","vers":"0.1.0","deps":[],"cksum":"880fdc2c38fd0be6154d19ff3ecdba2616c67aa8de1ca49dee0fda9ab03e2b98","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"crispii_errors","vers":"0.1.1","deps":[],"cksum":"7c95e8aee066401498ecf0cd5556534ee53e29d265304c3ecd1f5a2735b658f1","features":{},"yanked":false,"rust_version":"1.85.0"}
