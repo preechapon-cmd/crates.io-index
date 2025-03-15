@@ -1,1 +1,1 @@
-{"name":"sifli_sdk_wrapper","vers":"0.1.0","deps":[{"name":"ctrlc","req":"^3.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1624440e16eabd3b88584fef718ca78055316ac10a1bef4a8202a133ab7b4e5","features":{},"yanked":false}
+{"name":"sifli_sdk_wrapper","vers":"0.1.0","deps":[{"name":"ctrlc","req":"^3.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1624440e16eabd3b88584fef718ca78055316ac10a1bef4a8202a133ab7b4e5","features":{},"yanked":true}
