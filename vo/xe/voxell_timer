@@ -5,3 +5,4 @@
 {"name":"voxell_timer","vers":"1.0.0","deps":[],"cksum":"cc7006d99d750f60a6fe7cfc18b8d6c084b7319bfd53ff8605dd6f0974bcc297","features":{},"yanked":false}
 {"name":"voxell_timer","vers":"1.0.1","deps":[],"cksum":"85ffc8fc4dcbcc2d998dcfb0e88099b04772e1e35700ea8e9437a0cff8e46fc4","features":{},"yanked":true}
 {"name":"voxell_timer","vers":"1.1.1","deps":[],"cksum":"9497078d1191cd08047622361a0cb3fef02e9b0bbc1eab7c4684cc3c6fea0a4f","features":{},"yanked":false}
+{"name":"voxell_timer","vers":"1.2.0","deps":[],"cksum":"86e48bac8a1cab52ad38f8474b8c80c2c976fa2025e0be0e969f4613374a668d","features":{},"yanked":false}
