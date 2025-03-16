@@ -1,0 +1,1 @@
+{"name":"loggit","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"571ed721488c87d03daa09a483c415ff99756179512230c8a564f21317240943","features":{},"yanked":false}
