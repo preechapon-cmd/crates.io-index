@@ -8,3 +8,4 @@
 {"name":"confindent","vers":"2.0.1","deps":[],"cksum":"1bde72d4386a91c9079073be49a06b7bbe8204d04868963417015f3556be2c9e","features":{},"yanked":false}
 {"name":"confindent","vers":"2.1.0","deps":[],"cksum":"10e03c581adc00be1ddb7442e2df2d8baedebfda23416e8e143032f799aa1502","features":{},"yanked":false}
 {"name":"confindent","vers":"2.2.0","deps":[],"cksum":"c5a06ecfd8e0b653f5b0a1b083f74a275d2aab7834b90bce8c66f3c0b2f53fb1","features":{},"yanked":false}
+{"name":"confindent","vers":"2.2.1","deps":[],"cksum":"ea618ded77af626818bde0f0802da7c20d47e38e23e37be40f6f807a76079e82","features":{},"yanked":false}
