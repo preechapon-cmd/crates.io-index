@@ -7,3 +7,4 @@
 {"name":"voxell_timer","vers":"1.1.1","deps":[],"cksum":"9497078d1191cd08047622361a0cb3fef02e9b0bbc1eab7c4684cc3c6fea0a4f","features":{},"yanked":false}
 {"name":"voxell_timer","vers":"1.2.0","deps":[],"cksum":"86e48bac8a1cab52ad38f8474b8c80c2c976fa2025e0be0e969f4613374a668d","features":{},"yanked":false}
 {"name":"voxell_timer","vers":"1.2.1","deps":[],"cksum":"5672b8305b25ad018b691cdd19bcdae9d2f1e6307609a3c08465ec3ecfaea6db","features":{},"yanked":false}
+{"name":"voxell_timer","vers":"1.2.2","deps":[],"cksum":"9447c4d365404e24ba4f1b3a8e5062d9fc55927bcf461baed6faf75e37c3213f","features":{},"yanked":false}
