@@ -12,3 +12,4 @@
 {"name":"include_proc_macro","vers":"2.0.0","deps":[],"cksum":"5ccfb472cd41d4f42c2e59d22e364d7d3d99e14ee4a25cfd4ae8e8fb1502bcdd","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.1","deps":[],"cksum":"25697b85f3cfdd055b5f9fcd9482cbba9c579531c650265dc6ce75c662f2ab81","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.2","deps":[],"cksum":"bb036d588993426e8519276ab868035820ab996e60f5497971417b3854b1f6c4","features":{},"yanked":false}
+{"name":"include_proc_macro","vers":"2.0.3","deps":[],"cksum":"205a1fbfed955ea74b9c00d6ab230e9e508389c8833aa71ace32e30af28b7c5d","features":{},"yanked":false}
