@@ -14,3 +14,4 @@
 {"name":"include_proc_macro","vers":"2.0.2","deps":[],"cksum":"bb036d588993426e8519276ab868035820ab996e60f5497971417b3854b1f6c4","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.3","deps":[],"cksum":"205a1fbfed955ea74b9c00d6ab230e9e508389c8833aa71ace32e30af28b7c5d","features":{},"yanked":false}
 {"name":"include_proc_macro","vers":"2.0.4","deps":[],"cksum":"7f739ac1725a98ac023febde0d90d8261366aecf18e628ef0acdfce785738051","features":{},"yanked":false}
+{"name":"include_proc_macro","vers":"2.0.5","deps":[],"cksum":"675f96fb7573d43fdb5941a66f969903d79cb65a14cd62221c402b0927ab6b2f","features":{},"yanked":false}
