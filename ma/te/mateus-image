@@ -1,0 +1,1 @@
+{"name":"mateus-image","vers":"1.3.0","deps":[{"name":"image","req":"^0.25.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"037591041d08cdf93dffb4f0335b4985f51917ab39386d2899a36830e9eba1b6","features":{},"yanked":false}
