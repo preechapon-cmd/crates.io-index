@@ -30,3 +30,4 @@
 {"name":"zenoh-collections","vers":"1.2.0","deps":[],"cksum":"ab5479807d2cf724b03c553282a788b11554d6eb61d5928caeebe52116ab9853","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"zenoh-collections","vers":"1.2.1","deps":[],"cksum":"8874b3f55b18b2f76e4f85d168483b8823f533e53203055195be6f8ba6d7d96d","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
 {"name":"zenoh-collections","vers":"1.2.2","deps":[],"cksum":"02e8de17c197af869904236ad1630c0f0e56488c2aa239a64917764bf925ed28","features":{"default":["std"],"std":[],"test":[]},"yanked":true,"rust_version":"1.75.0"}
+{"name":"zenoh-collections","vers":"1.2.3","deps":[],"cksum":"f8b6562e94d3a319b974e84a7022479071ce4f2d7ca50a127c8967526d980b9e","features":{"default":["std"],"std":[],"test":[]},"yanked":false,"rust_version":"1.75.0"}
