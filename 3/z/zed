@@ -1,1 +1,2 @@
 {"name":"zed","vers":"0.1.0","deps":[],"cksum":"3df0684a12d7cc1f004990b07e763bef5a0d3f295faaba4ad6c823d2ee9da3f1","features":{},"yanked":false}
+{"name":"zed","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1deb142519b7819a4d75a658d282202e698d6479e2416ea0f29073b46bf3e3b6","features":{"wasm":["wasm-bindgen"]},"yanked":false}
