@@ -1,1 +1,2 @@
 {"name":"bt_file_utils","vers":"0.1.0","deps":[{"name":"bt_logger","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e294e2706b43d38a4b3e0de722e07d26cf7ae6c5a9acef8d59f5153843070bd","features":{},"yanked":false}
+{"name":"bt_file_utils","vers":"0.1.1","deps":[{"name":"bt_logger","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e244ee0cadff25dd32427a41f0ea44dd0e134ce700617cd820cd79ace4049aec","features":{},"yanked":false}
