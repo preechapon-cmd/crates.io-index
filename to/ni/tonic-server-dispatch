@@ -1,2 +1,3 @@
 {"name":"tonic-server-dispatch","vers":"0.1.0","deps":[],"cksum":"ed35b8d987dd50dad2b84858bc58a975060293ea0f1ed0a029fa622458fdc9f0","features":{},"yanked":false}
 {"name":"tonic-server-dispatch","vers":"0.1.1","deps":[],"cksum":"48105a6256fbc0efc9252f18fd48bb8e9228f9d9de55c1419dc2b6545fd0ba29","features":{},"yanked":false}
+{"name":"tonic-server-dispatch","vers":"0.2.0","deps":[],"cksum":"677d43a342dc88a9f61ff5559c3c320003d7f4cf619271dbe56a4d3e65c23087","features":{},"yanked":false}
