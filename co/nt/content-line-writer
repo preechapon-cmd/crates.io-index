@@ -1,2 +1,3 @@
 {"name":"content-line-writer","vers":"0.1.0","deps":[],"cksum":"cc14542d6e4aefc99d8243c5422f615a919f3847e77f05954e1c8a65cf174b11","features":{},"yanked":false}
 {"name":"content-line-writer","vers":"0.2.0","deps":[],"cksum":"0992eaa3c0298434db4016c3a062a50c8277565ca4e353773b60faaaa84480dd","features":{},"yanked":false}
+{"name":"content-line-writer","vers":"0.2.1","deps":[],"cksum":"eef0a9c0ece699cb16e740314418d78e9b77957729c224315dfe6ce92310b868","features":{},"yanked":false}
