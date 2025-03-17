@@ -1,0 +1,1 @@
+{"name":"cvlr-log","vers":"0.4.0","deps":[{"name":"cvlr-mathint","req":"=0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfbcdd22d4b77b1b6c625d344f4b3bf3b82c32fa4e99d324c5d7a28c0b3248c0","features":{"rt":["cvlr-mathint/rt"]},"features2":{"default":["mathint"],"mathint":["dep:cvlr-mathint"]},"yanked":false,"v":2}
