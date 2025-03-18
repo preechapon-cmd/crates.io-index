@@ -1,0 +1,1 @@
+{"name":"swamp-vm-instr-build","vers":"0.1.4","deps":[{"name":"swamp-vm-types","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51850ed21f187f324b12970c2a5eaec755d72bf58100e9a2582f0265a116768c","features":{},"yanked":false}
