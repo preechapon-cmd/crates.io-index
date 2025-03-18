@@ -1,0 +1,1 @@
+{"name":"dht20-rs","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93bc6ee236a2b5ba5092d77728b838a8bd610274bc370c86c3fcef0544b4ae74","features":{},"yanked":false}
