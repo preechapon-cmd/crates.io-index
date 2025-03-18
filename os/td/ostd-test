@@ -18,3 +18,4 @@
 {"name":"ostd-test","vers":"0.11.3","deps":[],"cksum":"e8e9fbb0160400dd4d5a149c5e78b6602c2d1c431e61e17d9cbcee4e4a434d17","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.12.0","deps":[],"cksum":"6f775976c8caf1ff6fbdbb0017e22398cf63ad244feec3a52ee770e905aa5393","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.13.0","deps":[],"cksum":"450b5cb6f53da4220d4b5d759ecd58c42f97df156e13f24e0ade8168859fda5a","features":{},"yanked":false}
+{"name":"ostd-test","vers":"0.14.0","deps":[],"cksum":"55ac4813c1397daf8cb5bd650e4c1dc2cccb1e518ca3a0060b94fe0158afb1cf","features":{},"yanked":false}
