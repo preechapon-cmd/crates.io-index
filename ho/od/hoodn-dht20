@@ -1,1 +1,0 @@
-{"name":"hoodn-dht20","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d665ab4ad07362dfb2643718484b95bd828fa403765b0e79faa3b43b71c5f542","features":{},"yanked":false}
