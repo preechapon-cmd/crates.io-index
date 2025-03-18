@@ -4,3 +4,4 @@
 {"name":"memfault-ssf","vers":"1.16.1","deps":[],"cksum":"b43474e1e798120f0a004c7bbfdf6551058c01f283e4b3d0db737f18c4ceb281","features":{},"yanked":false}
 {"name":"memfault-ssf","vers":"1.17.0","deps":[],"cksum":"aaddce0493ced82a05764e6738d605f8650ff5f37bea1401eb6c836e42afeb99","features":{},"yanked":false}
 {"name":"memfault-ssf","vers":"1.18.0","deps":[],"cksum":"a8787f695d70dc7f94da2746a21953d8afdc350088d06425d52d8b89f06556b9","features":{},"yanked":false}
+{"name":"memfault-ssf","vers":"1.18.1","deps":[],"cksum":"42df625b4356ba238e911c34a8389d1f9402e4e8ec9ed0f78043870aaff755ec","features":{},"yanked":false}
