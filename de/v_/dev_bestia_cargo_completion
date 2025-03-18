@@ -8,3 +8,4 @@
 {"name":"dev_bestia_cargo_completion","vers":"2024.306.2322","deps":[],"cksum":"6fcfd08120a5a4333ba779c99c282e760b1b79f035794658d2b9dd4fd3b0a3d2","features":{},"yanked":false}
 {"name":"dev_bestia_cargo_completion","vers":"2024.307.1911","deps":[],"cksum":"48f0df3464d5f0b19bb4cc22bdf3f5defd6c9a1630845904c035bfcf218fb5a0","features":{},"yanked":false}
 {"name":"dev_bestia_cargo_completion","vers":"2024.421.1905","deps":[],"cksum":"8cc2c0a7c44c2b055117e4e3d3c06216fd87df9e4d263ec9ef5d11d301ca7ace","features":{},"yanked":false}
+{"name":"dev_bestia_cargo_completion","vers":"2025.318.1324","deps":[],"cksum":"4ff817b56f8418a0226b1f0f2100f9c1050aaa129209882aec6305f2244a43ce","features":{},"yanked":false}
