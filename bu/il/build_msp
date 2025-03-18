@@ -1,0 +1,1 @@
+{"name":"build_msp","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fb287716f53a406a17809a3bf216e08db1d9472928c65fcb4c67862021b6754","features":{},"yanked":false}
