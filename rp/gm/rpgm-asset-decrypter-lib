@@ -1,0 +1,1 @@
+{"name":"rpgm-asset-decrypter-lib","vers":"1.0.0","deps":[{"name":"png","req":"^0.17.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7951c631795cbfd4b4d9e146d0c2cd0138471c52b10d7043c239c3495f6901fb","features":{},"yanked":false,"rust_version":"1.56.0"}
