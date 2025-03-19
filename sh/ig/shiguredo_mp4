@@ -2,3 +2,4 @@
 {"name":"shiguredo_mp4","vers":"2024.2.0","deps":[],"cksum":"2088f8d279b53b459eabcf92ae2630fd50e8e220fcea05f3d4d6372caf8068c6","features":{},"yanked":false}
 {"name":"shiguredo_mp4","vers":"2024.3.0","deps":[],"cksum":"298dae998ee0ea59ac50b3fb6ada19da86672fd14751a7a2d7f9aeeff7e49fa4","features":{},"yanked":false}
 {"name":"shiguredo_mp4","vers":"2024.4.0","deps":[],"cksum":"dcf4f0930981f4cbd245d45fe7f3159ee71a66fe3027fc0f4615f6f7b55d9fcd","features":{},"yanked":false}
+{"name":"shiguredo_mp4","vers":"2025.1.0","deps":[],"cksum":"d74bd04dc827a7f96d11d77dc432d92666198bb813ab8db477e869539b5b7ccb","features":{},"yanked":false}
