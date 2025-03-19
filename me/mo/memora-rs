@@ -1,0 +1,1 @@
+{"name":"memora-rs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.44.1","features":["net","rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c840a25c3c4a5aa170135193bdbafcc500fb51c7d5333bbae353fcc125f2445","features":{},"yanked":false}
