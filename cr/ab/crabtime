@@ -1,1 +1,2 @@
 {"name":"crabtime","vers":"0.1.0","deps":[],"cksum":"33bebc2c03a761e780d2bc60fc77244e6dd53c034f7433784edbdc6ff6093e0d","features":{},"yanked":false}
+{"name":"crabtime","vers":"1.0.0","deps":[{"name":"crabtime-internal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7068073617dd6ddaaefcd3cb896d37e5cca39aa16484b14c5ec1d2e7de8c774a","features":{"default":["std"],"std":[]},"yanked":false}
