@@ -1,0 +1,1 @@
+{"name":"regexml-convert-perl-tests","vers":"0.1.0","deps":[{"name":"xot","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac68c46bc236f5ff5cf24369209035981ddb3c4f0b99f33ef710a0f82684e45c","features":{},"yanked":false}
