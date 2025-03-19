@@ -10,3 +10,4 @@
 {"name":"xenon-lexer","vers":"0.2.2","deps":[],"cksum":"0fcf71c66a84e46d07357401e148f158258cdd7fea039e1eb794d39ed429a282","features":{},"yanked":false}
 {"name":"xenon-lexer","vers":"0.2.3","deps":[],"cksum":"80bc02392462ceb736f7691e82ae43faef54b9d178116f0262f957b086f67b24","features":{},"yanked":false}
 {"name":"xenon-lexer","vers":"0.2.4","deps":[],"cksum":"2a7090d2d619615d0357df7edf2f843f96cbb37cce51b151a25054d36792b5ef","features":{},"yanked":false}
+{"name":"xenon-lexer","vers":"0.2.5","deps":[],"cksum":"f9f4a9217277d624741155e2118f7b089484fd6bdebff82378da71c8f8e20f3b","features":{},"yanked":false}
