@@ -17,3 +17,4 @@
 {"name":"affinidi-did-resolver-methods","vers":"0.3.0","deps":[],"cksum":"9716ee09bd171807b32e60a5ba2ab4b8f631838daf938e2bd628e1161b86faa1","features":{},"yanked":false}
 {"name":"affinidi-did-resolver-methods","vers":"0.4.1","deps":[],"cksum":"e56120ed86a771a57d3c19f60fc5b5eb6a2be27e3d42c61741006c30aaf22417","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"affinidi-did-resolver-methods","vers":"0.5.0","deps":[],"cksum":"e2d8ed87695880e562808eaa0d5733fcc584d597a7f331d50409e8295b40496d","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"affinidi-did-resolver-methods","vers":"0.5.1","deps":[],"cksum":"00ceaa31b9edcb11947dff7b13b343fd3383e0ba634944c3b6c1662a081ea6aa","features":{},"yanked":false,"rust_version":"1.85"}
