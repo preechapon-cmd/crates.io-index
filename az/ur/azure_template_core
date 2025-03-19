@@ -17,3 +17,4 @@
 {"name":"azure_template_core","vers":"1.0.0-beta.4665397","deps":[],"cksum":"29eb4651b464b0212758b38985cbb76cd3bf10dbd72fe0dcd2a4c29a0237374f","features":{},"yanked":true,"rust_version":"1.80"}
 {"name":"azure_template_core","vers":"1.0.0-beta.4668913","deps":[],"cksum":"1612fbb6f5b2bc679744079781f418500215a8ab4a3a477cf7c386c99ddfad0a","features":{},"yanked":true,"rust_version":"1.80"}
 {"name":"azure_template_core","vers":"1.0.0-beta.4670130","deps":[],"cksum":"e8583eaf5d1c88fa7458582152479e6690a993cad901e3ff45a956defb3fdaab","features":{},"yanked":true,"rust_version":"1.80"}
+{"name":"azure_template_core","vers":"1.0.0-beta.4670212","deps":[],"cksum":"2bd58e9e3dc90a081508d3592b58b04993304d3b6a95640e35652c106ef2f988","features":{},"yanked":false,"rust_version":"1.80"}
