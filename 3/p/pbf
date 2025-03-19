@@ -10,3 +10,4 @@
 {"name":"pbf","vers":"0.3.0","deps":[],"cksum":"2749f01b8ecc123a987aa9bfe91ef76d68e1b7025b80ceed1f4b4eda013c09e0","features":{},"yanked":false}
 {"name":"pbf","vers":"0.3.1","deps":[],"cksum":"78ce7e535daa67c6d2abec6badb0e3d38d02b2f26add6c68e73d5a339086be03","features":{},"yanked":false}
 {"name":"pbf","vers":"1.0.0","deps":[],"cksum":"1abf524470125aea48aea26205d8fdbd53bcd58bda6906a31eb49233df71968c","features":{},"yanked":false}
+{"name":"pbf","vers":"1.0.1","deps":[],"cksum":"8181dd4fb922fe580078a22fafa04cee5b1051b7564a580956e03b2436b104e6","features":{},"yanked":false}
