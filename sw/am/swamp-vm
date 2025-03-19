@@ -1,1 +1,2 @@
 {"name":"swamp-vm","vers":"0.1.4","deps":[{"name":"swamp-vm-types","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a84a8a7a96cf3c4c50e391517f219c9d0e2d951cad151bb7ba6c3cc74c91b865","features":{"debug_vm":[]},"yanked":false}
+{"name":"swamp-vm","vers":"0.1.5","deps":[{"name":"swamp-vm-types","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86fde6ff40f391dd96830b0b259ffe254a741583a274fa98d141c1748affc911","features":{"debug_vm":[]},"yanked":false}
