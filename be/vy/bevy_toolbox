@@ -1,0 +1,1 @@
+{"name":"bevy_toolbox","vers":"0.1.0","deps":[{"name":"bevy_toolbox_spawn","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18475f9ec94b923ce6e20ed2990958eab8ae19c5e08ca7a436864ecc29ffd870","features":{},"yanked":false}
