@@ -1,0 +1,1 @@
+{"name":"cargo_wrap","vers":"0.1.0","deps":[{"name":"toml","req":"^0.8.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"208eae1e2e25ae448958be36367e7e3556383880e19a136697d46ff61b941402","features":{},"yanked":false}
