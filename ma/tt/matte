@@ -8,3 +8,4 @@
 {"name":"matte","vers":"0.2.4","deps":[],"cksum":"2b80f7cb9fc144e704234add2b9619ca6815a58e66dcf19770141d67b6802fe5","features":{},"yanked":false}
 {"name":"matte","vers":"0.2.6","deps":[],"cksum":"54f762333faa65a0c81ba93107cae5ccaae6236563e30b6e2d85e22c9de2138b","features":{},"yanked":false}
 {"name":"matte","vers":"0.2.7","deps":[],"cksum":"953fb0743b8df811580864d1cffeafe7ca04ffc547379790eafe9d9a27ef73ed","features":{},"yanked":false}
+{"name":"matte","vers":"0.2.8","deps":[],"cksum":"80f07757295f9123c4d9848eda9f5a9dd5da61e544278c3ea1296c5ceb3a30c6","features":{},"yanked":false}
