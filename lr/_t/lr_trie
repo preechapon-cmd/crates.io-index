@@ -7,9 +7,9 @@
 {"name":"lr_trie","vers":"1.3.0","deps":[],"cksum":"810d14de83297eb936363ef395ec5a75fef44234e8afc7b23a22a46bfe393233","features":{},"yanked":true}
 {"name":"lr_trie","vers":"1.4.0-rc.1","deps":[],"cksum":"fcc7eaf3bfe22b9c3ad199fa0f563b6d8959a2b94c1a0819f041a6c097346703","features":{},"yanked":true}
 {"name":"lr_trie","vers":"1.4.0","deps":[],"cksum":"cebf5d0707a79c762c3e1b1400ff4b7192a11032c010c4ec34739c90d7679754","features":{},"yanked":true}
-{"name":"lr_trie","vers":"1.4.1","deps":[],"cksum":"9fab3609d7a54c7fad6551707411d4a25f4710363f56abf78db66e03bef641e9","features":{},"yanked":false}
-{"name":"lr_trie","vers":"1.4.2","deps":[],"cksum":"f260a6033a027fc09759ae43284e3fd1d18eb1ef3fa540309f2ab4575ee74bf9","features":{},"yanked":false}
-{"name":"lr_trie","vers":"1.4.3","deps":[],"cksum":"6b049e73d1743a69e962835633c0d30733fc3b6945e6c026bd9d49e6129fde52","features":{},"yanked":false}
+{"name":"lr_trie","vers":"1.4.1","deps":[],"cksum":"9fab3609d7a54c7fad6551707411d4a25f4710363f56abf78db66e03bef641e9","features":{},"yanked":true}
+{"name":"lr_trie","vers":"1.4.2","deps":[],"cksum":"f260a6033a027fc09759ae43284e3fd1d18eb1ef3fa540309f2ab4575ee74bf9","features":{},"yanked":true}
+{"name":"lr_trie","vers":"1.4.3","deps":[],"cksum":"6b049e73d1743a69e962835633c0d30733fc3b6945e6c026bd9d49e6129fde52","features":{},"yanked":true}
 {"name":"lr_trie","vers":"1.4.4","deps":[],"cksum":"ebcbbfe077a14a043aa499302628f4240bb14efb537739e3ad957a4f04f8d170","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.4.5","deps":[],"cksum":"1741d9087aa52b4ae691a077252645cc91e059ba5ee4feb969dd89e1c6ce91b4","features":{},"yanked":false}
 {"name":"lr_trie","vers":"1.5.0","deps":[],"cksum":"0441dff1a7a65f469292d6816d0d6042e07d7c3b39361e75db0be4b4fc8f340b","features":{},"yanked":false}
