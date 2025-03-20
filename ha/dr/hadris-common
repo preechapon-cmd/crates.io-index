@@ -1,0 +1,1 @@
+{"name":"hadris-common","vers":"0.0.1","deps":[{"name":"bytemuck","req":"^1.22.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"616855420af104c190bd8010e42a57936ae2d6ecd02591e04066833e38b70a8a","features":{"std":[]},"features2":{"bytemuck":["dep:bytemuck"],"default":["bytemuck","std"]},"yanked":false,"v":2}
