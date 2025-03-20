@@ -17,7 +17,7 @@
 {"name":"lr_trie","vers":"2.0.1","deps":[],"cksum":"32f73b9ea3945a90597360b8fb9c205e89a132b3c695b3c6bc2d102dfc53a8b4","features":{},"yanked":true}
 {"name":"lr_trie","vers":"3.0.0","deps":[],"cksum":"b90f4f634b8518f17174af78d5c2c1d8732aff9a24e16242319c8153a75879a6","features":{},"yanked":true}
 {"name":"lr_trie","vers":"3.0.1","deps":[],"cksum":"6c3b896728efc5ae5dac7302f2c2361f0274c1c7189273247dec6b0278c845a6","features":{},"yanked":true}
-{"name":"lr_trie","vers":"3.1.0","deps":[],"cksum":"a4ff831d4c80e1bb2285a785f6b8a29c415fe914d14d602086fce95071c28936","features":{},"yanked":false}
-{"name":"lr_trie","vers":"3.2.0","deps":[],"cksum":"38c22ca0ec0921b0c2fe23bd43529b164c30086853e76f1605924fba26006f7d","features":{},"yanked":false}
+{"name":"lr_trie","vers":"3.1.0","deps":[],"cksum":"a4ff831d4c80e1bb2285a785f6b8a29c415fe914d14d602086fce95071c28936","features":{},"yanked":true}
+{"name":"lr_trie","vers":"3.2.0","deps":[],"cksum":"38c22ca0ec0921b0c2fe23bd43529b164c30086853e76f1605924fba26006f7d","features":{},"yanked":true}
 {"name":"lr_trie","vers":"3.2.1","deps":[],"cksum":"4bb54215ef5cf9571955912c54be59a3f06f6e2020df63938a8a909c5b30e9c3","features":{},"yanked":false}
 {"name":"lr_trie","vers":"3.2.2","deps":[],"cksum":"6369c1f1eccb2642a43c6d9f9e3e08760645cc943bfd889bd007059c1b609984","features":{},"yanked":false}
