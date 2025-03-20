@@ -1,1 +1,2 @@
 {"name":"srb_sys","vers":"0.0.1","deps":[],"cksum":"747a310bbcd2eded76bcb0c7747f9cb2b916b9e35313eca0141221e602eb3053","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"srb_sys","vers":"0.0.2","deps":[],"cksum":"1eb80b145545dd5382794d1989c4504478404094131fea4fac25f79f51f7f63f","features":{},"yanked":false,"rust_version":"1.84"}
