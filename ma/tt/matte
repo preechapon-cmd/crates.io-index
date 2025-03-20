@@ -6,3 +6,4 @@
 {"name":"matte","vers":"0.2.2","deps":[],"cksum":"8ec803863fd56027288fd34e8e764a8456bae2ad447b996476390e3871743df3","features":{},"yanked":false}
 {"name":"matte","vers":"0.2.3","deps":[],"cksum":"321288efd8d8716e9c75fbcfbd397b4ff6a1060de992badc7cd8c93120c8ed11","features":{},"yanked":false}
 {"name":"matte","vers":"0.2.4","deps":[],"cksum":"2b80f7cb9fc144e704234add2b9619ca6815a58e66dcf19770141d67b6802fe5","features":{},"yanked":false}
+{"name":"matte","vers":"0.2.6","deps":[],"cksum":"54f762333faa65a0c81ba93107cae5ccaae6236563e30b6e2d85e22c9de2138b","features":{},"yanked":false}
