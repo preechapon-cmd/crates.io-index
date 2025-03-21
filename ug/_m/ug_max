@@ -13,3 +13,4 @@
 {"name":"ug_max","vers":"4.0.2","deps":[],"cksum":"6bfcde25f585f8fe6365bf40ceb81a0d021aff49d6cbdb89583615f40de0fb88","features":{},"yanked":false}
 {"name":"ug_max","vers":"4.0.3","deps":[],"cksum":"f2f88efb90d065b0c7f174f514531cb71e87088016dc41606c48cf3040b7180c","features":{},"yanked":false}
 {"name":"ug_max","vers":"4.0.4","deps":[],"cksum":"826583c832ef116cee19d818f5690bb56971e3f4c5332fe57fd808df8e0d7d8e","features":{},"yanked":false}
+{"name":"ug_max","vers":"4.0.5","deps":[],"cksum":"3029a40b2a4b94cc47c74b92e62a77c601c77a422673b9d4668a5ad102692171","features":{},"yanked":false}
