@@ -21,3 +21,4 @@
 {"name":"lr_trie","vers":"3.2.0","deps":[],"cksum":"38c22ca0ec0921b0c2fe23bd43529b164c30086853e76f1605924fba26006f7d","features":{},"yanked":true}
 {"name":"lr_trie","vers":"3.2.1","deps":[],"cksum":"4bb54215ef5cf9571955912c54be59a3f06f6e2020df63938a8a909c5b30e9c3","features":{},"yanked":true}
 {"name":"lr_trie","vers":"3.2.2","deps":[],"cksum":"6369c1f1eccb2642a43c6d9f9e3e08760645cc943bfd889bd007059c1b609984","features":{},"yanked":false}
+{"name":"lr_trie","vers":"2.0.2","deps":[],"cksum":"4f3eef57e268e127a535eb2fe973f61d83c00003bf9b6ac545253d50f082c116","features":{},"yanked":false}
