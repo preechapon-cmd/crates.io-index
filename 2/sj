@@ -55,3 +55,4 @@
 {"name":"sj","vers":"2.0.0","deps":[],"cksum":"be616c45b06a0ec1be7ceed9a91dada346b1179369563a6801ba51895eddfa84","features":{"std":[],"x-unicode":[]},"yanked":false}
 {"name":"sj","vers":"2.0.1","deps":[],"cksum":"04bc1f4e006887f25839b47b815878709006357fc9a200a1f00b9f19adbe93eb","features":{"std":[],"x-unicode":[]},"yanked":false}
 {"name":"sj","vers":"2.0.2","deps":[],"cksum":"96d7aced734b4c28d43e1b0fae2bb865c79dd7437fec3471893037ee1819991d","features":{"std":[],"x-unicode":[]},"yanked":false}
+{"name":"sj","vers":"2.0.3","deps":[{"name":"json","req":">=0.12, <0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5d309ca5169f2ef543b96bac8ac9c0af2652fc2fcd6c8df18aa87e586ed47323","features":{"std":[],"x-unicode":[]},"yanked":false}
