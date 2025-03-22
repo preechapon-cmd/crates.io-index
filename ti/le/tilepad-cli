@@ -1,0 +1,1 @@
+{"name":"tilepad-cli","vers":"0.0.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb168aa5a7c464de46e9900a0fc5fdb488b77d04800189cacab3d4e54ae1b3f6","features":{},"yanked":false}
