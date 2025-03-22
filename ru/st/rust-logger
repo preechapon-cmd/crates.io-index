@@ -1,0 +1,1 @@
+{"name":"rust-logger","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a0f7acac6b30c44749b30230c2b0ede7ed253717377dabfd04774e431eb7c7f","features":{},"yanked":false}
