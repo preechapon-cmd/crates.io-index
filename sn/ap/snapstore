@@ -1,0 +1,1 @@
+{"name":"snapstore","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d010e5abe78840bc2d3472487a64fbd6c8a407bd737584cd9a1d2c5a9b88455","features":{},"yanked":false}
