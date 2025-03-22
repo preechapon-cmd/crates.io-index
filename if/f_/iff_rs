@@ -1,0 +1,1 @@
+{"name":"iff_rs","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8899506a240654687f29e93a4538e24157c571f2ea9d3586a4bf353916666c4f","features":{},"yanked":false}
