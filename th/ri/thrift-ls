@@ -1,0 +1,1 @@
+{"name":"thrift-ls","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70d56c2cc5a319261d16fab13c6a1f809e63e0e319195273f8d4174212071ee3","features":{},"yanked":false}
