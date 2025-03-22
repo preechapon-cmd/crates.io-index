@@ -1,0 +1,1 @@
+{"name":"biquad-filters-rust","vers":"0.0.7","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16305b1c9a2fa059ce3471b807286c7abc9f361f18bf2d93bb2de3a886c0fe0a","features":{},"yanked":false}
