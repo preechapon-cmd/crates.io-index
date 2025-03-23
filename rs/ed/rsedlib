@@ -1,0 +1,1 @@
+{"name":"rsedlib","vers":"0.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f20f7af9a5c9f585c49a28f2a557c3c9fa2cd54ae0c24fa385d16f383c84b75f","features":{},"yanked":false}
