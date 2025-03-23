@@ -22,3 +22,4 @@
 {"name":"rsjson","vers":"0.5.1","deps":[],"cksum":"95a73fdc106c2d63ec6ed88a760ecf4b669ad43b9954dffdc40061dbde0e7e36","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.6.0","deps":[],"cksum":"897931d084eb4d2c70d035e08e28a5dbd9fa6119f6460c9e10927d53c6ef7d23","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.6.1","deps":[],"cksum":"6fed28c35b2287ae3c32b38d0245094ecdb2017721592d744463dee088a090e7","features":{},"yanked":false}
+{"name":"rsjson","vers":"0.6.2","deps":[],"cksum":"6ef274c1b3c990221f141e25333c5d9b1d451417adb4eefc620a9bc746d60d26","features":{},"yanked":false}
