@@ -9,3 +9,4 @@
 {"name":"compare_version","vers":"0.2.7","deps":[],"cksum":"15009df2cd6fbd0dd61ff1efc5e31a546699935d081af909564a796261e98b71","features":{},"yanked":false}
 {"name":"compare_version","vers":"0.2.8","deps":[],"cksum":"83951350f8fc4963ed1b075416a3d16da642c8c0653e3052520f4e4ac6ee72c3","features":{},"yanked":false}
 {"name":"compare_version","vers":"0.3.0","deps":[],"cksum":"1218bb0ecf79bb4c2d8b4ca5b0964ab0a368c5d84594bb6a73d77268fddfecbe","features":{},"yanked":false}
+{"name":"compare_version","vers":"0.3.1","deps":[],"cksum":"26eae1746f4cd51bc68096c859d62cd3045f80d0001735bc871bc76f96cb8f62","features":{},"yanked":false}
