@@ -2,3 +2,4 @@
 {"name":"bin-encode-decode","vers":"0.0.2","deps":[],"cksum":"c9bbf0e900af9ca4c6ab9f83c3c4b012adc3b308ced25c10ce478345c20c9fc8","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"0.0.3","deps":[],"cksum":"60af68b4ea17c857cfbae62be3daea2b93f5caf7fb87d8e6c819977a8b9603c3","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"0.1.0","deps":[],"cksum":"5b46c34fefefa5094f8c3ca660a4ea814bf4c38601f883e4e67addc745f61187","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"0.1.1","deps":[],"cksum":"778847ef1fc62a32bace6681c40fed6b883c93cb03ed4229a496964a5d546101","features":{},"yanked":false}
