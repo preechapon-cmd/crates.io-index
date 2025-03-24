@@ -25,3 +25,4 @@
 {"name":"lr_trie","vers":"1.5.1","deps":[],"cksum":"e40c759120fcd7a0c2cac4dc6fa042475d2a3e75db0303461b97da1172b0fae1","features":{},"yanked":false}
 {"name":"lr_trie","vers":"3.3.0","deps":[],"cksum":"57111cf9587d43adf167a71dbe590726346b060564c9c93e394576eba6e7ebdb","features":{},"yanked":false}
 {"name":"lr_trie","vers":"3.3.1","deps":[],"cksum":"dcc7bd063fad0bff1230ff630d8d7748ab3ca0823cae08370a73f0667d8c4721","features":{},"yanked":false}
+{"name":"lr_trie","vers":"4.0.0","deps":[],"cksum":"8cce8c2dd9346cc3bb9f4d5363dc76eb31bddfb1ec3b3d8d2872c8e6b2ecc2d9","features":{},"yanked":false}
