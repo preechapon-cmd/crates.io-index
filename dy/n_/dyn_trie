@@ -18,3 +18,4 @@
 {"name":"dyn_trie","vers":"2.3.3","deps":[],"cksum":"650eccb6cd3396a003ace750c6a596a7eeede193812477fa3331ea10c667c271","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"3.0.0","deps":[],"cksum":"bf57ae5f2767a4953047f495f7efbf7889bcc670189e9a9504efe18f9f26b17b","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"3.0.1","deps":[],"cksum":"6482c60d184361008e5db832ba760b55ba870e4179beceab2b5eef8aa797fcbf","features":{},"yanked":false}
+{"name":"dyn_trie","vers":"3.0.2","deps":[],"cksum":"d3d14149a5dd821164b40527ab77f5474ecfe1368f2f197594de970ef191eba7","features":{},"yanked":false}
