@@ -1,0 +1,1 @@
+{"name":"dofus-dmg-calculator","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a6b70dd040a5c4944d6b62405cdf3b5f36c9092f429dcddc5eb53cc119787d2","features":{},"yanked":false}
