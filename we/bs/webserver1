@@ -1,4 +1,4 @@
 {"name":"webserver1","vers":"0.0.1","deps":[],"cksum":"54062fa10220205488a5a35a4e0cacd97cb3e8bb6c1252fbb1a5c60db65b630a","features":{},"yanked":false}
 {"name":"webserver1","vers":"0.0.2","deps":[],"cksum":"5f01ef02ebddda53df43eeeb76f14b414b38b135874fa826ed08d5de9df10292","features":{},"yanked":false}
 {"name":"webserver1","vers":"0.0.3","deps":[],"cksum":"b2c442d62e0e888f3bec7001fc95a806b4b410be0d19a5d12c0a4af7f9439d14","features":{},"yanked":false}
-{"name":"webserver1","vers":"0.0.4","deps":[],"cksum":"dfb446711fa3800bcee0df35b8629a8d974e253902715395f1048e15d7001271","features":{},"yanked":false}
+{"name":"webserver1","vers":"0.0.4","deps":[],"cksum":"dfb446711fa3800bcee0df35b8629a8d974e253902715395f1048e15d7001271","features":{},"yanked":true}
