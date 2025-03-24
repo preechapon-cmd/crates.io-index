@@ -1,0 +1,1 @@
+{"name":"poems-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40c4b9811b98203b8c050a8a3878c6facf6855d5e4dc8815d1ae30d4f72b5df9","features":{},"yanked":false}
