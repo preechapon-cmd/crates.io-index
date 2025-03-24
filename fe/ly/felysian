@@ -1,0 +1,1 @@
+{"name":"felysian","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fa21db37a27d58ba998dea5cc469f78b635153076a0b7d3b47bde115522e955","features":{},"yanked":false}
