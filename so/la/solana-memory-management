@@ -134,3 +134,4 @@
 {"name":"solana-memory-management","vers":"2.2.2","deps":[],"cksum":"03576b5e73339fe528f041afe7d08d2ad85a933f3f154b2e17c3cf800ae0a00f","features":{},"yanked":false}
 {"name":"solana-memory-management","vers":"2.2.3","deps":[],"cksum":"6ab721eb39e51da179582a9c512f5dabb36307c5c44f63153254cb66ae5ab758","features":{},"yanked":false}
 {"name":"solana-memory-management","vers":"2.1.16","deps":[],"cksum":"833f5cea50c648fcb924eafc20cda50e0f5c50f4aac9242ca363d5e045cba1b5","features":{},"yanked":false}
+{"name":"solana-memory-management","vers":"2.2.4","deps":[],"cksum":"ae53c76f492e91d67ef171fb43873727c3d8e793129004ad4e31f7885de13ede","features":{},"yanked":false}
