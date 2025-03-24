@@ -1,1 +1,2 @@
 {"name":"somedb","vers":"0.1.0","deps":[{"name":"somedb-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13b34449a9ca6696adce77dba7a5d183232cec17bf7353055fa52d47fc18c55d","features":{},"yanked":false}
+{"name":"somedb","vers":"0.1.1","deps":[{"name":"somedb-macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5507ac6b3959b7729ea6a02a2e67057ea80a3bba94751fcecfb34a944a491188","features":{},"yanked":false}
