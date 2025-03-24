@@ -3,3 +3,4 @@
 {"name":"webserver1","vers":"0.0.3","deps":[],"cksum":"b2c442d62e0e888f3bec7001fc95a806b4b410be0d19a5d12c0a4af7f9439d14","features":{},"yanked":false}
 {"name":"webserver1","vers":"0.0.4","deps":[],"cksum":"dfb446711fa3800bcee0df35b8629a8d974e253902715395f1048e15d7001271","features":{},"yanked":false}
 {"name":"webserver1","vers":"0.0.5","deps":[],"cksum":"fbe4e27a97598dd2927164246cabd3066678c659be7def8fd361237c5d6d1a83","features":{},"yanked":false}
+{"name":"webserver1","vers":"0.0.6","deps":[],"cksum":"cb46389924bedf4876853018fd19d52fd1511d7c8754196a04a06ac2deaa8d0c","features":{},"yanked":false}
