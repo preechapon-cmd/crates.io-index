@@ -7,3 +7,4 @@
 {"name":"sofars","vers":"0.1.6","deps":[],"cksum":"46da5e24452f57fa1cc12f6e35b7b7a9f42af7e29965b7f1ff72792c65911878","features":{},"yanked":false}
 {"name":"sofars","vers":"0.1.7","deps":[],"cksum":"ac28f0331ec7eb4631049929b51ffa200d7d89f18ab57e7fd40e817ca13ca71c","features":{},"yanked":false}
 {"name":"sofars","vers":"0.2.0","deps":[],"cksum":"2ee31d13039e0d9e06713c8222e982744d1686861fff7a7b213aac429b69e8ae","features":{},"yanked":false}
+{"name":"sofars","vers":"0.3.0","deps":[],"cksum":"846e8c4fef651c61aa247b79d560a60532560157c4ec049641b1b6f94da90670","features":{},"yanked":false}
