@@ -2,3 +2,4 @@
 {"name":"devotee-backend","vers":"0.2.0-beta","deps":[],"cksum":"de246019acae2b375c9029e77cc104100af72f7c98d031f81e1774c59e79a5e5","features":{"input-context":[]},"yanked":false}
 {"name":"devotee-backend","vers":"0.2.0-beta.1","deps":[],"cksum":"36087e516cd57e037aadc17bf574755d0d79c257ea59b01e3f9a9b822b19a7b5","features":{"input-context":[]},"yanked":false}
 {"name":"devotee-backend","vers":"0.2.0-beta.2","deps":[],"cksum":"e021eecb3a60b26d25dc9964a21746e993ff99acf4e7ec8785d905e169e1b568","features":{"input-context":[]},"yanked":false}
+{"name":"devotee-backend","vers":"0.2.0-beta.3","deps":[],"cksum":"3fecee5ce86ca1c1427036c767315de95cae04399a6fa888ca4d13dfc5c36039","features":{},"yanked":false}
