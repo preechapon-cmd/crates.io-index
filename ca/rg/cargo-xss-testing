@@ -1,2 +1,3 @@
 {"name":"cargo-xss-testing","vers":"0.1.0","deps":[],"cksum":"4d018733376fd836c63c986f5f5989e8250fd80c260d6d3d8b7670e4d95b7245","features":{},"yanked":false}
 {"name":"cargo-xss-testing","vers":"0.2.0","deps":[],"cksum":"3e797a12b9e05c689862886a3514e2d205bbfc034c1eb7f55f1d112ca8187a00","features":{},"yanked":false}
+{"name":"cargo-xss-testing","vers":"0.3.0","deps":[],"cksum":"88749a252999ad55987e2e93b4d33b0f46699964326816def891f51d2dd6b604","features":{},"yanked":false}
