@@ -2,3 +2,4 @@
 {"name":"rstsr-openblas-ffi","vers":"0.1.0","deps":[],"cksum":"b907c08955acf36d14aca641777154ae37982078ebb01c8a4f0b6e7aff6b34f7","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
 {"name":"rstsr-openblas-ffi","vers":"0.2.0","deps":[],"cksum":"bfa09224cd5eb09b4f6b2747cadc76d1494edd1027935cbd5769b30eda9b58e6","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
 {"name":"rstsr-openblas-ffi","vers":"0.2.1","deps":[],"cksum":"62fbe2be4f13486f3019d2297850c5b19d0977d900da01669e084e97b605813e","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.2","deps":[],"cksum":"7348a358fff0f509804294e11c042a7014d08552a6f31afa53095540e66c1d97","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
