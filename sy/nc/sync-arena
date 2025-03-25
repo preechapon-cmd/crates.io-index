@@ -1,0 +1,1 @@
+{"name":"sync-arena","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a950a567594e2e4fab44eb49aa133226a3364ca729aac99aefe224972d182eb0","features":{},"yanked":false}
