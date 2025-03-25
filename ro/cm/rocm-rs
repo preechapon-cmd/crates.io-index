@@ -1,1 +1,2 @@
 {"name":"rocm-rs","vers":"0.0.0-reserved","deps":[],"cksum":"c928d7a69cffc0a32e7c57430e8104051165d7650e5aead5a6f6a07c7c7e4d22","features":{},"yanked":false}
+{"name":"rocm-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"398579f7c883910011b0ac7bb2717bace3f5063bf44b23b713e17ab922594135","features":{},"yanked":false}
