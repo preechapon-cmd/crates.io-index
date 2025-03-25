@@ -4,3 +4,4 @@
 {"name":"gabelang","vers":"1.2.1","deps":[],"cksum":"4ec1697da04d3b37b3fee626795465b64e9ac3bad8473a0678f771507e3c751c","features":{},"yanked":false}
 {"name":"gabelang","vers":"1.2.2","deps":[],"cksum":"8844e3cc87ec562b207f21a2e80769dfd3c3058820aad05e3fb590e8e5ea752e","features":{},"yanked":false}
 {"name":"gabelang","vers":"1.3.0","deps":[],"cksum":"0109b6e08803c52f15ec920435769cb1a5af389bb981b7356f63c1241f736090","features":{},"yanked":false}
+{"name":"gabelang","vers":"2.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2682189c9c1f965fdb2130e0f0525e3e4fe60eec8bd2585963e99187a141cdff","features":{},"features2":{"wasm":["dep:wasm-bindgen"]},"yanked":false,"v":2}
