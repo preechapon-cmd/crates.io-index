@@ -2,3 +2,4 @@
 {"name":"komb","vers":"0.2.0","deps":[],"cksum":"64640740ab24b766e6195fb7c129c27f5892f7c8671f426dbf042e253233de04","features":{},"yanked":false}
 {"name":"komb","vers":"0.2.1","deps":[],"cksum":"03e01a8c8551e20433888188c93e4e2f510c42253160eeddf67f2c75d8c03824","features":{},"yanked":false}
 {"name":"komb","vers":"0.3.0","deps":[],"cksum":"c35136cfd259cbf873245d3fe572ff7f6fe6c66cafd6599f7bc466e04d5915e8","features":{},"yanked":false}
+{"name":"komb","vers":"0.4.0","deps":[],"cksum":"f231dcd7e9e4a5b84cdf1bbb21450f2265902fc7c60a96c2e905cef83cfd1a39","features":{},"yanked":false}
