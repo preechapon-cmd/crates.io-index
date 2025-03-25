@@ -1,3 +1,4 @@
 {"name":"touchstone","vers":"0.0.1","deps":[],"cksum":"5d47f9ddbb65174adca4a46baa27155a80f40d261ebf7a6269344083e2e78471","features":{},"yanked":false}
 {"name":"touchstone","vers":"0.0.2","deps":[],"cksum":"768d3b8edd9c101e153ce829df8ae9bf5f53b533bb120ece470ce20a1e0585fc","features":{},"yanked":false}
 {"name":"touchstone","vers":"0.1.0","deps":[],"cksum":"c3f1d57dfc81c80db760c955a0bfec96a1ccef71f15a535f68c3aaa9db8147ba","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.2.0","deps":[],"cksum":"d749ce71b8d1078467ac77a3156506bf7735f73a6fbd97135a74a9babea9438a","features":{},"yanked":false}
