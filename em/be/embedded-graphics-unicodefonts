@@ -1,0 +1,1 @@
+{"name":"embedded-graphics-unicodefonts","vers":"0.0.1","deps":[{"name":"embedded-graphics","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1864581d1d2ad0edf4178459b93dd602303b8687e739f15f130fc4af75cf14bb","features":{},"yanked":false}
