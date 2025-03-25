@@ -2,3 +2,4 @@
 {"name":"cargo-xss-testing","vers":"0.2.0","deps":[],"cksum":"3e797a12b9e05c689862886a3514e2d205bbfc034c1eb7f55f1d112ca8187a00","features":{},"yanked":false}
 {"name":"cargo-xss-testing","vers":"0.3.0","deps":[],"cksum":"88749a252999ad55987e2e93b4d33b0f46699964326816def891f51d2dd6b604","features":{},"yanked":false}
 {"name":"cargo-xss-testing","vers":"0.4.1","deps":[],"cksum":"373c7ac496371676b01a6ab54905456b887093f54cc33a5b727731ce27ffc524","features":{},"yanked":false}
+{"name":"cargo-xss-testing","vers":"0.4.2","deps":[],"cksum":"8ff6da059fc87704c65dcd9d4ad8f97b6d368fccace3fdbe461cf1d9d62bcd94","features":{},"yanked":false}
