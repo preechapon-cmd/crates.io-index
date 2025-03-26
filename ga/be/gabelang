@@ -5,3 +5,4 @@
 {"name":"gabelang","vers":"1.2.2","deps":[],"cksum":"8844e3cc87ec562b207f21a2e80769dfd3c3058820aad05e3fb590e8e5ea752e","features":{},"yanked":false}
 {"name":"gabelang","vers":"1.3.0","deps":[],"cksum":"0109b6e08803c52f15ec920435769cb1a5af389bb981b7356f63c1241f736090","features":{},"yanked":false}
 {"name":"gabelang","vers":"2.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2682189c9c1f965fdb2130e0f0525e3e4fe60eec8bd2585963e99187a141cdff","features":{},"features2":{"wasm":["dep:wasm-bindgen"]},"yanked":false,"v":2}
+{"name":"gabelang","vers":"2.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"878ee03ab45383c9adda4343a42bd065a32d632b51fb753bd5a413a1ac7c8a72","features":{},"features2":{"wasm":["dep:wasm-bindgen"]},"yanked":false,"v":2}
