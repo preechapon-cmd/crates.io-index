@@ -3,3 +3,4 @@
 {"name":"icu_timezone_data","vers":"1.4.0","deps":[],"cksum":"6ceee21e181cce2ab44e95923da6b3418df75369f570df82264c29c51ca398d4","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_timezone_data","vers":"1.5.0","deps":[],"cksum":"c588878c508a3e2ace333b3c50296053e6483c6a7541251b546cc59dcd6ced8e","features":{},"yanked":false,"rust_version":"1.67"}
 {"name":"icu_timezone_data","vers":"2.0.0-beta1","deps":[{"name":"icu_provider_baked","req":"~2.0.0-beta1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f7101943ee41cefbbb9079b2053e24b58983208992697236ecd7b3bc9949058b","features":{},"yanked":false,"rust_version":"1.71.1"}
+{"name":"icu_timezone_data","vers":"1.5.1","deps":[],"cksum":"1adcf7b613a268af025bc2a2532b4b9ee294e6051c5c0832d8bff20ac0232e68","features":{},"yanked":false,"rust_version":"1.67"}
