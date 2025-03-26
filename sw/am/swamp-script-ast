@@ -23,3 +23,4 @@
 {"name":"swamp-script-ast","vers":"0.1.4","deps":[],"cksum":"8b65e6dda646c573985f0e92497bd91d04beb5c92b87c0e6f82329383b76dd5d","features":{},"yanked":false}
 {"name":"swamp-script-ast","vers":"0.1.5","deps":[],"cksum":"359915b227dd72b0e559f9605d1b7072267ac21edc9b9d918a1e61ed00ad2c4f","features":{},"yanked":false}
 {"name":"swamp-script-ast","vers":"0.1.6","deps":[],"cksum":"21c7307d54fccee8997a6778c36466ec48b30ba66ea761ad14e2633bd87757af","features":{},"yanked":false}
+{"name":"swamp-script-ast","vers":"0.1.7","deps":[],"cksum":"3c9faa19e6437d7f1fd95e557f17d4c2c8da1d6d469453a29b454e002ea89266","features":{},"yanked":false}
