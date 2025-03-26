@@ -1,2 +1,3 @@
 {"name":"test-release-automation","vers":"0.1.0","deps":[],"cksum":"2c8c33c2a5cac87d586d762d33942cc15080c20bd0811da9ba286f5676deea76","features":{},"yanked":false}
 {"name":"test-release-automation","vers":"0.2.0","deps":[],"cksum":"32ace10777f47b3bdfff11cca6bbfdbf6d617fe24f63b203de9c3096ca88004b","features":{},"yanked":false}
+{"name":"test-release-automation","vers":"0.1.1","deps":[],"cksum":"77c59b54f40721880cd04466deb0f8ffb55b39c99f2aaaec881c854170575d37","features":{},"yanked":false}
