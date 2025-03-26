@@ -1,1 +1,2 @@
 {"name":"swamp-vm-host","vers":"0.1.6","deps":[{"name":"swamp-vm","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ab0d6a3ea3912b9cf0666e33f4a8266fe1fef43c6c484786c738a4e40282cd1","features":{},"yanked":false}
+{"name":"swamp-vm-host","vers":"0.1.7","deps":[{"name":"swamp-vm","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60fe4562ca86c2f0bc3e94a0f3164e2f9b585362bacb70af043715319a147974","features":{},"yanked":false}
