@@ -1,0 +1,1 @@
+{"name":"simplehash","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2bf5eb50c2e42fc88f4abcf7f163d6ec25cd48de77dc2f4a65b8e8563f402903","features":{},"yanked":false}
