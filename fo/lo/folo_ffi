@@ -1,0 +1,1 @@
+{"name":"folo_ffi","vers":"0.0.1","deps":[{"name":"mutants","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e35be17a6a32912919a0614dd351ce2412c861afa57cae7921c156ad1ca95516","features":{},"yanked":false,"rust_version":"1.85"}
