@@ -1,0 +1,1 @@
+{"name":"should_error","vers":"0.1.0","deps":[{"name":"macro_rules_attr","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c86a7e1ec82396bef331f3db19f531b879cf4a448caaf1c464c5632c7f69b942","features":{},"yanked":false}
