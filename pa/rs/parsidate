@@ -1,0 +1,1 @@
+{"name":"parsidate","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66e062c14935165b09259026df805de33fa446822444e96041044747b3bb2929","features":{},"yanked":false}
