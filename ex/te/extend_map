@@ -1,3 +1,4 @@
 {"name":"extend_map","vers":"0.0.0","deps":[],"cksum":"0bb0cf57c7af721e79b5034b18a0a35b4bb8167c3d17ada21a594688535a78fc","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"extend_map","vers":"0.7.0","deps":[],"cksum":"ad74f8002650ab0416392470278be3628e155e9261b3396b9c409ec973f8944a","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"extend_map","vers":"0.7.1","deps":[],"cksum":"3c2127d0bd3d0c18cfe20604867bf7141e8d13df2461cbece466dab7670e5b62","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"extend_map","vers":"0.13.0","deps":[],"cksum":"d1c88d672722a44ae693c7c71339f20b05bcbc15a61e7dd563d1c3d06e5239a8","features":{},"yanked":false,"rust_version":"1.85.1"}
