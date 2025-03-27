@@ -1,0 +1,1 @@
+{"name":"ff_macro","vers":"0.2.0","deps":[{"name":"quote","req":"^1.0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3409ff44d4d77ce7aa357b44e960a345688cb63cfd840151c8b5fdb4b46c0699","features":{},"yanked":false}
