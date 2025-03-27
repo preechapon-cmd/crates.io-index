@@ -2,3 +2,4 @@
 {"name":"deterministic_default_hasher","vers":"0.6.0","deps":[],"cksum":"9c50d9ac9189a70a871927dccc785a1327ba23f29ec4b3e3d01c1d5cac788665","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"deterministic_default_hasher","vers":"0.7.0","deps":[],"cksum":"358d920d2b8a0cc3a09adc09f724e3f37c336545ba48c61f30192b31ace0a649","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"deterministic_default_hasher","vers":"0.7.1","deps":[],"cksum":"62f9c573663e16f877b0fa9cd6dfbbf3c9de9d219ff0b7c3c9492abcdbf05b38","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"deterministic_default_hasher","vers":"0.13.0","deps":[],"cksum":"888458b49ad2709bcfad7b26a594d65f9ac866d36f9ef324bacbebfc575a555e","features":{},"yanked":false,"rust_version":"1.85.1"}
