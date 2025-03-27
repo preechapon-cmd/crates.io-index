@@ -9,3 +9,4 @@
 {"name":"rs2io","vers":"0.1.8","deps":[],"cksum":"bac5336a279ec458f76e2263eb458f1dbf970a1d33fcf14f42650a0212b17293","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"rs2io","vers":"0.1.9","deps":[],"cksum":"591c6129f3c737572b5df9bf7f9c7b5f15f3f4eeb9f56ef8e7494eb0f56189c3","features":{},"yanked":false,"rust_version":"1.80.0"}
 {"name":"rs2io","vers":"0.2.0","deps":[],"cksum":"cc380612cbeb6986588da8682b50df456f8d483da4d124070cf7d306b6d1697f","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"rs2io","vers":"0.2.1","deps":[],"cksum":"b7378d41c9fc3a7540d7d7425c28be4040a517bfb3b9ca723fe49d0b99cbc654","features":{},"yanked":false,"rust_version":"1.80.0"}
