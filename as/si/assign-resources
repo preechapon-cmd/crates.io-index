@@ -3,3 +3,4 @@
 {"name":"assign-resources","vers":"0.3.0","deps":[],"cksum":"63b7c4aff3f31bdbb408192accd3cadc5708e241f5d9784ac5aaebe939051cbd","features":{},"yanked":false}
 {"name":"assign-resources","vers":"0.4.0","deps":[],"cksum":"ac9dbd41ffe99af63a8aa154ef210e203798f08ed7051fac0dbcfd49afa9e173","features":{},"yanked":false}
 {"name":"assign-resources","vers":"0.4.1","deps":[],"cksum":"6c0fc5119624f5c171d084b6a1bd3b6447dfadab980bb0d84717906239b77f85","features":{},"yanked":false}
+{"name":"assign-resources","vers":"0.5.0","deps":[],"cksum":"840ad5d907de7448d88a3f22b4a7b5d326c6eb3deeb9f94cfaaec7354a80b305","features":{},"yanked":false}
