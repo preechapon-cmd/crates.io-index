@@ -1,2 +1,3 @@
 {"name":"stalloc","vers":"0.2.0","deps":[],"cksum":"9159b8db45e1344e5831f673ca0a0417361b97474b3e297b4e7688cbb9d08371","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
 {"name":"stalloc","vers":"0.2.1","deps":[],"cksum":"706c437262b57c7c61eb129d9af7c1177d4210c214acc3b2b96c1145dba93a41","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
+{"name":"stalloc","vers":"0.3.0","deps":[],"cksum":"e925c25d60b94bf2d1ef979d23eee1744717f1e9af42dec11afbd51046eccc41","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
