@@ -15,10 +15,10 @@
 {"name":"vcheat","vers":"0.5.0","deps":[],"cksum":"ea2b946f2d4879e37f69ec9e8d28e1a1863392fd92103c1e4d9d1e86fb1064c9","features":{},"yanked":true}
 {"name":"vcheat","vers":"0.5.1","deps":[],"cksum":"39bfbe9690f60d85413bb007d884bd3cc2161dc2556c87e448520eecc4c1521a","features":{},"yanked":true}
 {"name":"vcheat","vers":"0.5.2","deps":[],"cksum":"c9a9e959a8dd06e7fff0cf25e74cc0eb6c9e1c19bf2bb75b39b21b66f5b68cdb","features":{},"yanked":true}
-{"name":"vcheat","vers":"0.6.0","deps":[],"cksum":"b140f3d98026e3635bd821cc15118dc6199c6c6cddb0ee31be627fd2075af6e3","features":{},"yanked":false}
-{"name":"vcheat","vers":"0.6.1","deps":[],"cksum":"54448c799797291a6709ac1e8a621ac637a6017c3fa1421e6002b8d50950917d","features":{},"yanked":false}
-{"name":"vcheat","vers":"0.6.2","deps":[],"cksum":"18bf37b060b6b82ff55fb6c0482ce6cebf526a22b3888b8ce77305f6acfab88d","features":{},"yanked":false}
-{"name":"vcheat","vers":"0.6.3","deps":[],"cksum":"296284283f23739f2b0a00ce53e2d8236956695f3b8a1c8cde48137f7a4c888a","features":{},"yanked":false}
+{"name":"vcheat","vers":"0.6.0","deps":[],"cksum":"b140f3d98026e3635bd821cc15118dc6199c6c6cddb0ee31be627fd2075af6e3","features":{},"yanked":true}
+{"name":"vcheat","vers":"0.6.1","deps":[],"cksum":"54448c799797291a6709ac1e8a621ac637a6017c3fa1421e6002b8d50950917d","features":{},"yanked":true}
+{"name":"vcheat","vers":"0.6.2","deps":[],"cksum":"18bf37b060b6b82ff55fb6c0482ce6cebf526a22b3888b8ce77305f6acfab88d","features":{},"yanked":true}
+{"name":"vcheat","vers":"0.6.3","deps":[],"cksum":"296284283f23739f2b0a00ce53e2d8236956695f3b8a1c8cde48137f7a4c888a","features":{},"yanked":true}
 {"name":"vcheat","vers":"0.6.4","deps":[],"cksum":"b124f131da53d4afa9558a6ebf07538b1fd0159200e803fe8e004020bc8c4df3","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.6.5","deps":[],"cksum":"6f93e4ffb7c845769b670efa6e0b64b65580c1260cbe880195f6b2e3d84c2c2d","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.6.6","deps":[],"cksum":"6045605a232828dc1c0a5789e109b9e6dbe2d8c65b32d39312b6b64f5470aa7b","features":{},"yanked":false}
