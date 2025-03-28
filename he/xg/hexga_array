@@ -2,3 +2,4 @@
 {"name":"hexga_array","vers":"0.0.2","deps":[],"cksum":"8eb97ec756462eb97ba825dc6ca8c7963845071c1342d1dd23bd13473380b261","features":{},"yanked":true}
 {"name":"hexga_array","vers":"0.0.3","deps":[],"cksum":"3ec8080299872f0af7fef239b84d9ed5abb45c447989fe553e6fa201f30bdf41","features":{},"yanked":false}
 {"name":"hexga_array","vers":"0.0.4","deps":[],"cksum":"2a24a880831c11b1dc7900d81c1951d7c4a84b03592fe1190ad13f50656d475f","features":{},"yanked":false}
+{"name":"hexga_array","vers":"0.0.5","deps":[],"cksum":"6ce7d9562ab1b87857fa3bc72eb1e2dfbc45ec58aa750a7e402504e7bc8b601e","features":{},"yanked":false}
