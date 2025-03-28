@@ -9,3 +9,4 @@
 {"name":"swamp-script-node","vers":"0.1.6","deps":[],"cksum":"544c9ab9b7ec1e697b40da6e03ae3ebe7bfe5dd7bc1c6347c7cd3b6fdfd6e560","features":{},"yanked":false}
 {"name":"swamp-script-node","vers":"0.1.7","deps":[],"cksum":"b37ebf967e6426d078c360685215939c50e1ffc5d199a10d1012c63b6e12628f","features":{},"yanked":false}
 {"name":"swamp-script-node","vers":"0.1.8","deps":[],"cksum":"a86dcc24a81faec83c794bc7d2e0c6d1c001751eb173da3f5e6ae23f4915bc2d","features":{},"yanked":false}
+{"name":"swamp-script-node","vers":"0.1.9","deps":[],"cksum":"a0fc3562e382e11627b537f331bc915dd901029a1b210eecd065aaaec3dc2425","features":{},"yanked":false}
