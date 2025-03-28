@@ -1,0 +1,1 @@
+{"name":"weiznich-testing-stuff-1","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b94a4868e933c41b2340107e2095c620fbe47e961e47274bc6b477d2ba46f23","features":{},"yanked":false}
