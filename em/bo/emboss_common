@@ -1,1 +1,2 @@
 {"name":"emboss_common","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"237ab76702395c941f6ef0fcd2287c6d453af8a81ef457ab1d6582e20b6201be","features":{},"yanked":false}
+{"name":"emboss_common","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cfd4eed01fa2aaa14b5f52b55fb5ce95fa0f79eb51452e6d90d87260d2e0f60","features":{},"yanked":false,"rust_version":"1.85.0"}
