@@ -1,1 +1,2 @@
 {"name":"px-wsdom-macros-decl","vers":"0.0.2","deps":[],"cksum":"1b9df876abcc7687a1523be69fc4bdff75cae327fb8199c0fe1cec6c70886c09","features":{},"yanked":false}
+{"name":"px-wsdom-macros-decl","vers":"0.0.5","deps":[{"name":"px-wsdom-core","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e002fddfb9eeae78439f40ed8f83112e7df9129a98e1da9deb12ef8574afbde","features":{},"yanked":false}
