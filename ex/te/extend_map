@@ -2,3 +2,4 @@
 {"name":"extend_map","vers":"0.7.0","deps":[],"cksum":"ad74f8002650ab0416392470278be3628e155e9261b3396b9c409ec973f8944a","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"extend_map","vers":"0.7.1","deps":[],"cksum":"3c2127d0bd3d0c18cfe20604867bf7141e8d13df2461cbece466dab7670e5b62","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"extend_map","vers":"0.13.0","deps":[],"cksum":"d1c88d672722a44ae693c7c71339f20b05bcbc15a61e7dd563d1c3d06e5239a8","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"extend_map","vers":"0.14.0","deps":[],"cksum":"f8b9b0112be0e978a6bb95f29542296ed82acc0c099e4e392609313742e8c193","features":{},"yanked":false,"rust_version":"1.85.1"}
