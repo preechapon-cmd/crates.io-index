@@ -10,3 +10,4 @@
 {"name":"ombrac-macros","vers":"0.4.1","deps":[],"cksum":"975aaf1085427ac844809e906298fa21decfafc6b5225b516d6ed11cbdde083a","features":{},"yanked":false}
 {"name":"ombrac-macros","vers":"0.4.2","deps":[],"cksum":"02215e5d3c546b12498feaab5dd569d1fe13f1c39709784b94987fbf5b215f6c","features":{},"yanked":false}
 {"name":"ombrac-macros","vers":"0.5.0","deps":[],"cksum":"d2d688998cb18c6355a99b614afcb2f621b56ac184e60c0c11c2b7e4fd81880b","features":{},"yanked":false}
+{"name":"ombrac-macros","vers":"0.5.1","deps":[],"cksum":"33dafd93e8514be449ee508b151a532cbbb967fa49ff9416d0a0834823354052","features":{},"yanked":false}
