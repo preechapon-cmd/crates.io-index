@@ -4,3 +4,4 @@
 {"name":"ndarray-layout","vers":"0.1.0","deps":[],"cksum":"06a15a99f4d52f44bb8c3d095fbbc5515ed0c7d6ead3866300a4e721e65d6696","features":{},"yanked":true}
 {"name":"ndarray-layout","vers":"0.1.1","deps":[],"cksum":"8c72e2318c9f00da70b5f8d194a51087863631f68bbd6242bff5203688327b7f","features":{},"yanked":false}
 {"name":"ndarray-layout","vers":"0.2.0","deps":[],"cksum":"df759bf296a502d21f7b213b6cffc6dd732e8a0915b160814af6c43863754eed","features":{},"yanked":false}
+{"name":"ndarray-layout","vers":"0.2.1","deps":[],"cksum":"80158db245d69d05d4397d6fe81cada0db87189cde118fd53dab51a0a46ccb5a","features":{},"yanked":false}
