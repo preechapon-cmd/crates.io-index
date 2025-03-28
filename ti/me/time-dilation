@@ -1,1 +1,2 @@
 {"name":"time-dilation","vers":"0.1.8","deps":[],"cksum":"6c8b5bbb3031f7feab4437467a4de488c02a1b285ffc0069d56a2b11b97aede8","features":{"default":[],"enable_summary":[]},"yanked":false}
+{"name":"time-dilation","vers":"0.1.9","deps":[],"cksum":"5df374d96b8f84409af198e899ae22a5bd43f5d79cd3d36391396c38e443b7ab","features":{"default":[],"enable_summary":[]},"yanked":false}
