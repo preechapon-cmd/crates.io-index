@@ -5,3 +5,4 @@
 {"name":"test-release-automation","vers":"0.2.1-dev.0","deps":[],"cksum":"86c6f51b2ac8e6ef056ec8ec3a206d0e56d58456edfdd7a31418f33347196d65","features":{},"yanked":false}
 {"name":"test-release-automation","vers":"0.2.1-dev.2","deps":[],"cksum":"eff3658f4f7061da754708db1538cc24aa5125697f4d91f2fa9c565ae99bbaf9","features":{},"yanked":false}
 {"name":"test-release-automation","vers":"0.2.1-dev.3","deps":[],"cksum":"4c9aa8cca1c9aa56dfc0be2539effc0e4437b1fd6ef748611698f6f0b620e73c","features":{},"yanked":false}
+{"name":"test-release-automation","vers":"0.2.1-dev.4","deps":[],"cksum":"81d904a0416ce785933700ebe6b17f0df410d6e6e4716505ab182d0eb0b884ec","features":{},"yanked":false}
