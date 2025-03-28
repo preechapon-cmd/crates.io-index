@@ -1,0 +1,1 @@
+{"name":"stalloc","vers":"0.2.0","deps":[],"cksum":"9159b8db45e1344e5831f673ca0a0417361b97474b3e297b4e7688cbb9d08371","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
