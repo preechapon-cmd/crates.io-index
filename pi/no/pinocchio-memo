@@ -1,1 +1,2 @@
 {"name":"pinocchio-memo","vers":"0.0.0","deps":[],"cksum":"dc6c8cd94214926ca2dc5ca69d1768dc1d40f8b6b4ae392f1d9885bfd81a7c71","features":{},"yanked":false}
+{"name":"pinocchio-memo","vers":"0.1.0","deps":[{"name":"pinocchio","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pinocchio-pubkey","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f8ff0a08be66d5ee1fa274cd428241316477de69e39ad7a6c2542f7a7c237fb","features":{},"yanked":false}
