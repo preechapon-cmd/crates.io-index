@@ -1,1 +1,2 @@
 {"name":"hooch-http","vers":"0.1.0","deps":[{"name":"hooch","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ab8bd25e0f110ef9d81bb84f99d22934b20cf1edb3d18fcfea795e0af95515","features":{},"yanked":false}
+{"name":"hooch-http","vers":"0.1.1","deps":[{"name":"hooch","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493bd591baf88560794f83912f85cafb6a940767ff8538febb8932e2a2cd5064","features":{},"yanked":false}
