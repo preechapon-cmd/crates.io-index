@@ -1,1 +1,0 @@
-{"name":"criterion_benchmark","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd0052380c615a0161d9b1d878b79919f8b9b58de28d8fee0062f0487bed1645","features":{},"yanked":false}
