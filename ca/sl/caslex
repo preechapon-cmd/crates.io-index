@@ -1,1 +1,2 @@
 {"name":"caslex","vers":"0.1.0","deps":[],"cksum":"8046a85d187a77a0769e3209f173ee2a2fc37dba1e94dab83d51c978fcc56b3c","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"caslex","vers":"0.1.1","deps":[],"cksum":"385c1cd04e9a5eafa126b79c8508dd2ed3cdd77dd8b09aa9af70d36700a4d207","features":{},"yanked":false,"rust_version":"1.85"}
