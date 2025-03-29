@@ -1,1 +1,2 @@
 {"name":"cdylib-shim","vers":"0.0.1","deps":[],"cksum":"3d0a22355394ad8fb7f9f72c5998792c02c5004f8dd7a65bb5245f4a5d0c2e19","features":{},"yanked":true}
+{"name":"cdylib-shim","vers":"0.1.0","deps":[{"name":"cdylib-shim-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"^0.3.9","features":["sysinfoapi","libloaderapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8985364d02e19d794c9a79874c0a30c7d8c0c8caffc4b04cb3adb4a6181c8cab","features":{},"yanked":false}
