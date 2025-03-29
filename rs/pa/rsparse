@@ -15,3 +15,4 @@
 {"name":"rsparse","vers":"1.0.0","deps":[],"cksum":"940e85d07fc8e0dbc8faa37146c14a31911d49873a45d290f65c8654e80919d4","features":{},"yanked":false}
 {"name":"rsparse","vers":"1.1.0","deps":[],"cksum":"6461d24efe26b47ca96747ea5b4865cf0528a5c0e59cdd798f620ba4e7af194a","features":{},"yanked":false}
 {"name":"rsparse","vers":"1.2.0","deps":[],"cksum":"27f54607548c6a60e8fd4f8f2877975ff66752a9a47f9fc057f6f4ae57cba16d","features":{},"yanked":false}
+{"name":"rsparse","vers":"1.2.1","deps":[],"cksum":"9d65dc8db760bdc8c94f4163c5d09be710f76fc92a4a1f698c441925db83c09e","features":{},"yanked":false}
