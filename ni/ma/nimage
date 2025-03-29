@@ -1,0 +1,1 @@
+{"name":"nimage","vers":"0.1.0","deps":[{"name":"tinytga","req":"^0.5.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f846cf858b9fba6f01483f9769366063175a82fbe1144aefdfbdaee2e2c0ac","features":{"std":[]},"features2":{"default":["tga","std"],"tga":["dep:tinytga"]},"yanked":false,"v":2}
