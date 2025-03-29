@@ -1,0 +1,1 @@
+{"name":"deep_quokka","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5b9db3c6a0c092c4d634e50bd6507c3cc4785754e538bd42d15ecdbfc3497a3","features":{},"yanked":false}
