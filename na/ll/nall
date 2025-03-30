@@ -1,1 +1,2 @@
 {"name":"nall","vers":"0.0.1","deps":[],"cksum":"4991d1395adbb2b6f3362f0f87eb0df2107311f72b5ec9ffa44d895a5d5d4cf8","features":{},"yanked":false}
+{"name":"nall","vers":"0.0.2","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c015650d5a3a407604e8639585e51b4037418f26348167ea8580a752843718","features":{},"features2":{"color":["dep:ansi_term"]},"yanked":false,"v":2}
