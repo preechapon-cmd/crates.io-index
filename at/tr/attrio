@@ -1,0 +1,1 @@
+{"name":"attrio","vers":"0.1.0","deps":[{"name":"macro_rules_attr","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65c54a0067a4ef23c620d333b9d39ea8ce9fadf5c5bab7137daf3ea49c2c72a0","features":{},"yanked":false}
