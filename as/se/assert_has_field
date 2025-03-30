@@ -1,1 +1,2 @@
 {"name":"assert_has_field","vers":"0.1.0","deps":[],"cksum":"8561ddd2b2fe700460113d1204d29fcbfc6417df541ec41b8f98bd487936ebe9","features":{},"yanked":false}
+{"name":"assert_has_field","vers":"0.1.1","deps":[{"name":"type-equalities","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9313ebc518bac8811ba91cbff7c3a770c47ead1efa21fa62c6360dfebf01e5","features":{},"yanked":false}
