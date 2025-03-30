@@ -1,0 +1,1 @@
+{"name":"rsubst","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"minijinja","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68894b1b8ef6e90c87771d3a5885fdfc99d5b3d6ddff104111da9fa86781e992","features":{},"yanked":false}
