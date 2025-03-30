@@ -1,1 +1,2 @@
 {"name":"timetrap","vers":"0.1.0","deps":[{"name":"mockall","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c0182f75efeafd42e4e35890ea985aadce1cc51c651069bc151364bc1e1d0089","features":{},"yanked":false}
+{"name":"timetrap","vers":"0.1.1","deps":[{"name":"mockall","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38a7a96c0be28e93c0ecca8bd54136d75bbf3d3578d9dd374aa01bbba1fda8f9","features":{},"yanked":false}
