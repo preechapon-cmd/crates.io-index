@@ -3,3 +3,4 @@
 {"name":"nall","vers":"0.2.1","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b72096f2b57b382fa184e6b1205c255f041aa27661837858429ff1f124d6e4a","features":{},"features2":{"color":["dep:ansi_term"]},"yanked":false,"v":2}
 {"name":"nall","vers":"0.3.0","deps":[],"cksum":"d5560788e74ca9507b9180141d378a045e686ff3b7cb8fa7121be4675c9e7f99","features":{"color":[]},"yanked":false}
 {"name":"nall","vers":"0.3.1","deps":[],"cksum":"e9299630304929fdcdc987d4da6ed65c76131c02103f344220e46859f0cf957d","features":{"color":[]},"yanked":false}
+{"name":"nall","vers":"0.3.2","deps":[],"cksum":"9c07924990326efe9db9104a382b615c7bbf393635a0be37489806908130cce5","features":{"color":[]},"yanked":false}
