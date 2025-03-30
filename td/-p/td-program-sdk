@@ -1,0 +1,1 @@
+{"name":"td-program-sdk","vers":"0.1.0","deps":[{"name":"solana-program","req":"^2.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da50ce00f096baee08702c03e9dd89bb3911310e3b0d174be9c1cffa4f18ecae","features":{},"yanked":false}
