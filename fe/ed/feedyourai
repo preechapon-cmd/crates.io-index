@@ -1,0 +1,1 @@
+{"name":"feedyourai","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"170abcb776aa3d4cce3c43445ca5248c5db2b16c865b87441b1271dde5aa61f0","features":{},"yanked":false}
