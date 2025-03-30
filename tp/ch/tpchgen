@@ -1,0 +1,1 @@
+{"name":"tpchgen","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af098d370875e6220416d8ac3d0b18b315927fb39e290cc1280418de663d09d3","features":{},"yanked":false}
