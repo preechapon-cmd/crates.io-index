@@ -1,0 +1,1 @@
+{"name":"timetrap","vers":"0.1.0","deps":[{"name":"mockall","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c0182f75efeafd42e4e35890ea985aadce1cc51c651069bc151364bc1e1d0089","features":{},"yanked":false}
