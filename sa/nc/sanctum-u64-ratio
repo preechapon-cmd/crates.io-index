@@ -1,0 +1,1 @@
+{"name":"sanctum-u64-ratio","vers":"1.0.0","deps":[{"name":"proptest","req":"^1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"9d1ad689849ff8e180d7fd311efe21ed6bca2ca9709d1dffdc1a52faf393e812","features":{},"yanked":false}
