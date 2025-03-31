@@ -5,3 +5,4 @@
 {"name":"nall","vers":"0.3.1","deps":[],"cksum":"e9299630304929fdcdc987d4da6ed65c76131c02103f344220e46859f0cf957d","features":{"color":[]},"yanked":false}
 {"name":"nall","vers":"0.3.2","deps":[],"cksum":"9c07924990326efe9db9104a382b615c7bbf393635a0be37489806908130cce5","features":{"color":[]},"yanked":false}
 {"name":"nall","vers":"0.4.0","deps":[],"cksum":"94e9bcb18d07b72815121a7387e385a50d695d392d909007dbb7588b4f5107f9","features":{"color":[]},"yanked":false}
+{"name":"nall","vers":"0.4.1","deps":[],"cksum":"4ba4c86fa30e2b888a76d0f99730ffae945e85b3ccc77666db37167ae987999c","features":{"color":[]},"yanked":false}
