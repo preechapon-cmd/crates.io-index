@@ -1,0 +1,1 @@
+{"name":"egui-scale","vers":"0.1.0","deps":[{"name":"egui","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8eaf3cadbfbcfa93c6a7ce217740b6bd7eeea8cc85ca8cc3df83f2513cdb62eb","features":{},"yanked":false}
