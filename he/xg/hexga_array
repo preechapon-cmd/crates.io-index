@@ -7,3 +7,4 @@
 {"name":"hexga_array","vers":"0.0.7","deps":[],"cksum":"64c13265d8c24afae20dfc2d7350c1cdc01b8807d3b2fc370950c55ce5746815","features":{},"yanked":false}
 {"name":"hexga_array","vers":"0.0.8","deps":[],"cksum":"ff85cb85e88b088895e19098c88cd6f6ff28ce9a8d4615a2798cf8a1794d6905","features":{},"yanked":false}
 {"name":"hexga_array","vers":"0.0.9","deps":[],"cksum":"284ad1f7851525a7f024624810b1cd9075e75b107a427d01c70e4899e041599e","features":{},"yanked":false}
+{"name":"hexga_array","vers":"0.0.10-beta.1","deps":[],"cksum":"1f2f769327c3a5dd71682b3d7924c2ec07673be6ddb3accc2117270987750027","features":{},"yanked":false}
