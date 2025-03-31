@@ -3,8 +3,8 @@
 {"name":"hexga_number","vers":"0.0.3","deps":[],"cksum":"32403a85e785f5d081e3975b7b6540150a21348c8cd9fc14db073211dd784928","features":{},"yanked":true}
 {"name":"hexga_number","vers":"0.0.4","deps":[],"cksum":"ae007f9f87bedb490d1a06c5d085a65287c29f7ade84c6f21b8ae5ed7ddba392","features":{},"yanked":true}
 {"name":"hexga_number","vers":"0.0.5","deps":[],"cksum":"ad505a35664cc6c6f598a166e14fee323300b2f388ce0cc678e4e32babf03dce","features":{},"yanked":true}
-{"name":"hexga_number","vers":"0.0.6","deps":[],"cksum":"504655d234cfa76dfd897c8a725a7e5388323ab9f32d50ad1504fe01c007c966","features":{},"yanked":false}
-{"name":"hexga_number","vers":"0.0.7","deps":[],"cksum":"35ca12a398c522aa39b9088afa099009e018ecfe9aff2cde4f2813f1a2d79c83","features":{},"yanked":false}
+{"name":"hexga_number","vers":"0.0.6","deps":[],"cksum":"504655d234cfa76dfd897c8a725a7e5388323ab9f32d50ad1504fe01c007c966","features":{},"yanked":true}
+{"name":"hexga_number","vers":"0.0.7","deps":[],"cksum":"35ca12a398c522aa39b9088afa099009e018ecfe9aff2cde4f2813f1a2d79c83","features":{},"yanked":true}
 {"name":"hexga_number","vers":"0.0.8","deps":[],"cksum":"730058c8c1a2c44646f5ff300a0e8fa8524b5b16f23aa16812f4ff13680d7ab7","features":{},"yanked":false}
 {"name":"hexga_number","vers":"0.0.9","deps":[],"cksum":"344253efdaa64673bc986d177977ce87389c4340bf4b2bfb6791acd92411508b","features":{},"yanked":false}
 {"name":"hexga_number","vers":"0.0.10-beta.1","deps":[],"cksum":"245c05e16a7cee9a909a4f86d3893e462928ad2ae13c068c891503539db86d05","features":{},"yanked":false}
