@@ -3,3 +3,4 @@
 {"name":"stalloc","vers":"0.3.0","deps":[],"cksum":"e925c25d60b94bf2d1ef979d23eee1744717f1e9af42dec11afbd51046eccc41","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
 {"name":"stalloc","vers":"0.4.0","deps":[],"cksum":"91492a0e4b6ad44758df092e2f17ea83f469918e399974407a16c299b3b778c7","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
 {"name":"stalloc","vers":"0.4.1","deps":[],"cksum":"6604dc4d426d2f37acf12c62bbbe3598dcb614240568945d69b04969b316fe20","features":{"allocator_api":[],"default":["sync_stalloc","allocator_api"],"sync_stalloc":[]},"yanked":false}
+{"name":"stalloc","vers":"0.4.2","deps":[],"cksum":"eb9fe002b0ccbe7735300a28974d9782554f9f59693d5f9db8db494e6fe976b0","features":{"allocator-api":[],"default":["std"],"std":[]},"yanked":false}
