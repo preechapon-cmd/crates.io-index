@@ -1,1 +1,1 @@
-{"name":"easylink-rs","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10836c933b722af9ca8c551498a03c459570360c6d4e0d023f34c0af16c89516","features":{},"yanked":false}
+{"name":"easylink-rs","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10836c933b722af9ca8c551498a03c459570360c6d4e0d023f34c0af16c89516","features":{},"yanked":true}
