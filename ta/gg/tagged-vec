@@ -1,1 +1,2 @@
 {"name":"tagged-vec","vers":"0.1.0","deps":[],"cksum":"ba107c8738cce754a463d8448ac8d929958c7a26cdda7630a8bd444106681b7c","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"tagged-vec","vers":"0.2.0","deps":[],"cksum":"76b6e6121c1a13227f3e491729f3ac6bccc26f3ca4a2d7ce775631bf0465ac96","features":{},"yanked":false,"rust_version":"1.85.1"}
