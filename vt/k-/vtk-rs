@@ -1,1 +1,2 @@
 {"name":"vtk-rs","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0d626f84405ce5a0fba96a2f6a74926dce89da9eceeda0bf9fcbf4609e057ab0","features":{},"yanked":false}
+{"name":"vtk-rs","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a2f5fb5d52803d49bdfb309b444c766dd0c43b354ad26d1adc2f9afa99e5f196","features":{},"yanked":false}
