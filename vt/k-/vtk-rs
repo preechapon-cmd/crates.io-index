@@ -1,0 +1,1 @@
+{"name":"vtk-rs","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0d626f84405ce5a0fba96a2f6a74926dce89da9eceeda0bf9fcbf4609e057ab0","features":{},"yanked":false}
