@@ -8,3 +8,4 @@
 {"name":"swamp-vm-types","vers":"0.1.11","deps":[],"cksum":"0b21b16c9bb8f658ab3c266d5271acd839323758ffe18d9a92a135575a872bc5","features":{},"yanked":false}
 {"name":"swamp-vm-types","vers":"0.1.12","deps":[],"cksum":"eb6348105ad8ddf2fd6e6e20104d0b4197e2cce7ee16440bb0d89b49052d6bc6","features":{},"yanked":false}
 {"name":"swamp-vm-types","vers":"0.1.13","deps":[],"cksum":"045af78f2ca350a47e63681bc2fc35bc268ccd4266f451caebe748dba25b69b1","features":{},"yanked":false}
+{"name":"swamp-vm-types","vers":"0.0.14","deps":[],"cksum":"d467dfc94031a4514d1c0f29d5d0c67a6fe06a2bc3facc9f5b1f4c8925d9a961","features":{},"yanked":false}
