@@ -8,3 +8,4 @@
 {"name":"sdl3-src","vers":"3.2.4","deps":[],"cksum":"652742893bbef3623ddbd049fa2eaeb7cf62f3f59ab1596727cfea3eb25fe5bb","features":{},"yanked":false}
 {"name":"sdl3-src","vers":"3.2.6","deps":[],"cksum":"0286c39792a22656365bd9c9a463fd0f98dc48b34df2d3f78657a33091f51af5","features":{},"yanked":false}
 {"name":"sdl3-src","vers":"3.2.8","deps":[],"cksum":"f0f784160e154c2750a9ea52906aa0d2c88afcd1b71c8960ed049f20fbc8cf0f","features":{},"yanked":false}
+{"name":"sdl3-src","vers":"3.2.10","deps":[],"cksum":"e677fa126db179fb8f03c982163321496ddf57a6d8a1e41eeef4600f956038b1","features":{},"yanked":false}
