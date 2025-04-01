@@ -23,3 +23,4 @@
 {"name":"via-router","vers":"3.0.0-beta.17","deps":[],"cksum":"d93db8699942c9e2dc62c64e0f863edc1fa21526a51f5378a2b09c58b1cb19f0","features":{"default":[],"lru-cache":[]},"yanked":false}
 {"name":"via-router","vers":"3.0.0-beta.18","deps":[],"cksum":"23192644a3c9a46bce7ab0c32c6e29f53b8973a06d9d452e2193208aed312c9c","features":{"default":[],"lru-cache":[]},"yanked":false}
 {"name":"via-router","vers":"3.0.0-beta.19","deps":[{"name":"smallvec","req":"^1.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e4d939df1ccc77658ebc08ab8481ac751e061aca0a6ba2ac927e239b0aa65fd","features":{"default":[]},"yanked":false}
+{"name":"via-router","vers":"3.0.0-beta.20","deps":[{"name":"smallvec","req":"^1.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fabdb5d090e122de250f4ec86f5deb60b5b826f8ff89dbfb74adcf40133142e","features":{"default":[]},"yanked":false}
