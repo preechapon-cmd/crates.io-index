@@ -1,0 +1,1 @@
+{"name":"rp-test","vers":"0.1.0-dev.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5f8c3f902017c022df96624456052580af6117b219c24bc444d019befadea68","features":{},"yanked":false}
