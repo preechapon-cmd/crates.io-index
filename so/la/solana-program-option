@@ -18,3 +18,4 @@
 {"name":"solana-program-option","vers":"2.1.14","deps":[],"cksum":"ba93725df635c7e2ad661c85f8c4e54d49a67a02128f99df01ce122aa5c287a6","features":{},"yanked":false}
 {"name":"solana-program-option","vers":"2.1.15","deps":[],"cksum":"68dac3ce91fb889721d9c9214c2bcdea6b370c4e4f1635ef726c2cf8e88a03b1","features":{},"yanked":false}
 {"name":"solana-program-option","vers":"2.1.16","deps":[],"cksum":"8d25b98958c16b1ab0045d0339ef479e1a50acaf0cfb055427ab358b5e3a3201","features":{},"yanked":false}
+{"name":"solana-program-option","vers":"2.1.17","deps":[],"cksum":"6ad5ac224648812bd84cc5d40d06f0cd64f6d13ac68cc074de0fab6de1caaa4d","features":{},"yanked":false}
