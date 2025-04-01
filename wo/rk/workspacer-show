@@ -1,0 +1,1 @@
+{"name":"workspacer-show","vers":"0.1.1","deps":[{"name":"workspacer-3p","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df8432849490b63eba54aac601aaac1730e1c13eba989ee753aef142ec850ddf","features":{},"yanked":false}
