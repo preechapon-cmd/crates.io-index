@@ -1,1 +1,2 @@
 {"name":"qfe","vers":"0.1.0","deps":[],"cksum":"994ff446943fe8c44067c3878cab6160e86024f4f8885d6f2fdc9319f95ffbf4","features":{},"yanked":false}
+{"name":"qfe","vers":"0.2.0","deps":[{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b568c1a2c149d248bb333833214b2ab01d9e217c2095edf2bb05f6425fe9cb3c","features":{},"yanked":false}
