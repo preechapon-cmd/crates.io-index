@@ -18,3 +18,4 @@
 {"name":"solana-native-token","vers":"2.1.14","deps":[],"cksum":"16b1bc3382ed8ef22cbcc786eb19877a2d79d8a6fccae82bc5869915979ab933","features":{},"yanked":false}
 {"name":"solana-native-token","vers":"2.1.15","deps":[],"cksum":"49f626d3d461a623d7f8131fc4eedaed186e0f63c6f388b5ca782cdfcc8326e0","features":{},"yanked":false}
 {"name":"solana-native-token","vers":"2.1.16","deps":[],"cksum":"4da5df297f1161018ddee7c9f8259c4267b479b60a9b3c4fe9c981efb629cae5","features":{},"yanked":false}
+{"name":"solana-native-token","vers":"2.1.17","deps":[],"cksum":"f6c848e296cccbbd9d293127a5c36965d87b564e23b921ff95247942a3246055","features":{},"yanked":false}
