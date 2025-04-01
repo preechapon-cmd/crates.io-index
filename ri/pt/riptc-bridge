@@ -1,2 +1,3 @@
 {"name":"riptc-bridge","vers":"0.1.0","deps":[],"cksum":"c2738f3e0f5e3d51ca96e23e1cdb90c6f263c8d0c438fe55a42718f7f0618379","features":{},"yanked":false}
 {"name":"riptc-bridge","vers":"0.0.1","deps":[],"cksum":"638da648249c08fd14d0bfa5e2336c7d635d75781d7669ce9b47888dd8248b6a","features":{},"yanked":false}
+{"name":"riptc-bridge","vers":"0.0.2","deps":[{"name":"riptc-bridge-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c863caaf236c5cd2e839feb3c51a011d1a562534f9c11332b45174cb06ea2ef5","features":{},"yanked":false}
