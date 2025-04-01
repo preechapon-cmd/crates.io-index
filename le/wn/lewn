@@ -1,0 +1,1 @@
+{"name":"lewn","vers":"0.9.0","deps":[{"name":"clap","req":"^4.5.34","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e26e30acdc043632ab2eeadf6fa0ac0604638d4e9981b9f9b5da864de3442b","features":{},"yanked":false}
