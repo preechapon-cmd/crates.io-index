@@ -1,2 +1,3 @@
 {"name":"coloremetry","vers":"0.1.0","deps":[],"cksum":"d189e0b1bc087c599a9da7c62184947aad58bf0ab0abdd36f5e57a67bc4e9ec4","features":{},"yanked":true}
 {"name":"coloremetry","vers":"0.1.1-beta","deps":[],"cksum":"e78b3bbb4196b0bce02d547d88b5d778c0249b6c76ed84438c6403b481198bfc","features":{},"yanked":false}
+{"name":"coloremetry","vers":"0.1.1-beta-2","deps":[],"cksum":"e5a577f8079c09c52b9bb71cb02090e291e0225e07d89ff40ef30e2746225be0","features":{},"yanked":false}
