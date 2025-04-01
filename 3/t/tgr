@@ -1,1 +1,2 @@
 {"name":"tgr","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec47a6b0bfdd1b5a635386eac4fc3aba1b1786f4c404df38137a341b7ca6aa2a","features":{},"yanked":false}
+{"name":"tgr","vers":"0.1.1","deps":[{"name":"macroquad","req":"^0.4.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bb29d7c6e215d1ef7ac724929318562bc99d21e29dc514cbb8a7bc8c6b935ee","features":{},"yanked":false}
