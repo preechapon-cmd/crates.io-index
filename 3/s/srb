@@ -1,2 +1,3 @@
 {"name":"srb","vers":"0.0.1","deps":[],"cksum":"517c3e33786bff6044c68c3394a43c2231f1b0a0612cbce1db2a79e6eb1124ee","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"srb","vers":"0.0.2","deps":[],"cksum":"136d47c24ab3de9c738db3546f0ba260e5bb007e4d667e253739907cff90fa7e","features":{},"yanked":false,"rust_version":"1.84"}
+{"name":"srb","vers":"0.0.3","deps":[],"cksum":"ceb9ce8ddcbc8b11c5b0d5b4e734bad695ba8122538f4e80ee9549305cf22499","features":{},"yanked":false,"rust_version":"1.84"}
