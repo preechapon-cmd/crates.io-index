@@ -1,0 +1,1 @@
+{"name":"mireforge-examples","vers":"0.0.19","deps":[{"name":"mireforge","req":"^0.0.19","features":["audio"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c4e587d46d8443f98600403f2bffebc2d80a00ee1a0196529596e8a53518857","features":{},"yanked":false}
