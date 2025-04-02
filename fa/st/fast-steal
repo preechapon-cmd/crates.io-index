@@ -1,0 +1,1 @@
+{"name":"fast-steal","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.5.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a0414b1a8ff15137c961792b468f795c6178b0b0e7c9a3740e0c6490ce170f","features":{},"yanked":false}
