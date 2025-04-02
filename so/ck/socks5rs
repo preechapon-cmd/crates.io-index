@@ -1,0 +1,1 @@
+{"name":"socks5rs","vers":"0.1.2","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"350db61b6dfbf7ab05ff7428d5b37228740bf1205f3602e2d8caaef76ae3a747","features":{},"yanked":false}
