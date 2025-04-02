@@ -1,0 +1,1 @@
+{"name":"namekit","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccc6700e02dac7de2e03786fa5e0c6d431257fa2642ef6d1d6858e9b583e9e9f","features":{},"yanked":false}
