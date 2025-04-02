@@ -3,9 +3,9 @@
 {"name":"xenon-lexer","vers":"0.1.2","deps":[],"cksum":"9fd493b88246ad5b33ef090b21867437463eee0c4f873cfa561789b7b1b815a2","features":{},"yanked":false}
 {"name":"xenon-lexer","vers":"0.1.3","deps":[],"cksum":"386eabf193030ba97fd791b33336561782cf323bbb28e9c6b6c38317dddadfda","features":{},"yanked":false}
 {"name":"xenon-lexer","vers":"0.1.4","deps":[],"cksum":"3fbafdc2e37b9882dc0599edbc9a93f9c5b2bbbfd63a2f374715eb9392ca2378","features":{},"yanked":false}
-{"name":"xenon-lexer","vers":"0.1.5","deps":[],"cksum":"7328801e7c156aa23f7b8ec4b86ffebecd11c2cbc50aeb5205204774c6cb2762","features":{},"yanked":false}
-{"name":"xenon-lexer","vers":"0.1.6","deps":[],"cksum":"7a6bc0e8bc550f0ab46fc77d1232bbc50a1191309d2ee31924b90ae50f9c6519","features":{},"yanked":false}
-{"name":"xenon-lexer","vers":"0.2.0","deps":[],"cksum":"f472daacc3c54bfae8d41c9dd24ab26dd786b46414ca0b0cbb3e77f3c1f8ba6c","features":{},"yanked":false}
+{"name":"xenon-lexer","vers":"0.1.5","deps":[],"cksum":"7328801e7c156aa23f7b8ec4b86ffebecd11c2cbc50aeb5205204774c6cb2762","features":{},"yanked":true}
+{"name":"xenon-lexer","vers":"0.1.6","deps":[],"cksum":"7a6bc0e8bc550f0ab46fc77d1232bbc50a1191309d2ee31924b90ae50f9c6519","features":{},"yanked":true}
+{"name":"xenon-lexer","vers":"0.2.0","deps":[],"cksum":"f472daacc3c54bfae8d41c9dd24ab26dd786b46414ca0b0cbb3e77f3c1f8ba6c","features":{},"yanked":true}
 {"name":"xenon-lexer","vers":"0.2.1","deps":[],"cksum":"db29c969ed133352fd71873471d0e1ce5b2e723b3545ec2b8c5874eb8d43e2d2","features":{},"yanked":true}
 {"name":"xenon-lexer","vers":"0.2.2","deps":[],"cksum":"0fcf71c66a84e46d07357401e148f158258cdd7fea039e1eb794d39ed429a282","features":{},"yanked":true}
 {"name":"xenon-lexer","vers":"0.2.3","deps":[],"cksum":"80bc02392462ceb736f7691e82ae43faef54b9d178116f0262f957b086f67b24","features":{},"yanked":true}
