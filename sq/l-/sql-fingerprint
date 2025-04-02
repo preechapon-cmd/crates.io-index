@@ -1,0 +1,1 @@
+{"name":"sql-fingerprint","vers":"0.1.0","deps":[{"name":"sqlparser","req":"^0.55.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"beb968426ce5c2fcb81ce42f2f1226ee5306d81393ce686d45430fbf2832b111","features":{},"yanked":false}
