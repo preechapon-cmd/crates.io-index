@@ -1,1 +1,2 @@
 {"name":"mutcy","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"28fd22a16c979919dbd3803795fc1d6c12ec32af14011939cf378ce98ae5e619","features":{},"yanked":false}
+{"name":"mutcy","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05b29b3b819b0e59e50a46cf861d87aa54f8653402171f732bb85573375484a2","features":{},"yanked":false}
