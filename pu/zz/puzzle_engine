@@ -1,0 +1,1 @@
+{"name":"puzzle_engine","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5db114f6d3e949d979eb1eabf7afafcd8875026fca5791303b0a73e6846b7e0d","features":{},"yanked":false}
