@@ -1,0 +1,1 @@
+{"name":"flat-drop","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebebca4b91eafe7f6dababb105b5fc3173e21b0f5d5e7207db5b6135bbb5a255","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
