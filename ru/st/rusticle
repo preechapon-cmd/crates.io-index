@@ -2,3 +2,4 @@
 {"name":"rusticle","vers":"0.2.1","deps":[],"cksum":"9e072236ea7616f7c4f426ad13dc76a64471aa4888e9a42481c1205ab77d0883","features":{},"yanked":false}
 {"name":"rusticle","vers":"0.2.2","deps":[],"cksum":"32654d1de41685e5eade9f1fcc0ed58c45ad2f110ffb2428d19e30084e3dacf5","features":{},"yanked":false}
 {"name":"rusticle","vers":"0.3.1","deps":[],"cksum":"6e77d0cbd3a84cba81ecee3ae46958587fccb1f45c311959b71eeeefca766c53","features":{},"yanked":false}
+{"name":"rusticle","vers":"0.3.2","deps":[],"cksum":"bc754b23dc85e042780de53b12bb5c38ebba0b3d47bc18027e4a21f48a89b7ca","features":{},"yanked":false}
