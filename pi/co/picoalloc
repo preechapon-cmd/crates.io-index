@@ -1,0 +1,1 @@
+{"name":"picoalloc","vers":"1.0.0","deps":[],"cksum":"f97e052730cf2167b63bfb00b8b8816dca124067114de046980f8486f109557a","features":{"default":[],"global_allocator_libc":[],"global_allocator_rust":[],"paranoid":["strict_provenance"],"strict_provenance":[]},"yanked":false}
