@@ -7,3 +7,4 @@
 {"name":"jsompiler","vers":"0.1.0-beta5","deps":[],"cksum":"83a3aff6658afc7234f4745d34025175d0094950a406872ac637a667cc9ded97","features":{},"yanked":false}
 {"name":"jsompiler","vers":"0.1.0","deps":[],"cksum":"84ce05ea69596c3ccc767ab422a0ac3bf281925cf9129cdd662a4e964024c781","features":{},"yanked":false}
 {"name":"jsompiler","vers":"0.1.1","deps":[],"cksum":"45dec2c793bbf619d8eb114c18796f42d093f01f363ff9f50a55c45b85573fbf","features":{},"yanked":false}
+{"name":"jsompiler","vers":"0.1.2","deps":[],"cksum":"33616499abe50cbeb3b83a3046fdd9bbdaab30b93d3646899f9ef2e2d72cc553","features":{},"yanked":false}
