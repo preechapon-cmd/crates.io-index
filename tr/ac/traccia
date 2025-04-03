@@ -5,3 +5,4 @@
 {"name":"traccia","vers":"1.2.2","deps":[],"cksum":"9c2b02f23978e1d5e1f81383f005cecbf20fbe467db1b61b87957f45ba176552","features":{"blocking":[],"default":[]},"yanked":false}
 {"name":"traccia","vers":"1.3.2","deps":[],"cksum":"f1e804d07641e2b6fc124bfc8c6303a62cfc9e38b2640f60771c5e77cf084448","features":{"blocking":[],"default":[]},"yanked":false}
 {"name":"traccia","vers":"1.4.2","deps":[],"cksum":"b9ca49b27e9f8d8c4162355609d04a27d460c57642dc1f2828d357e58c246ef7","features":{"blocking":[],"default":[]},"yanked":false}
+{"name":"traccia","vers":"2.0.0","deps":[],"cksum":"75f731d175aba352f3b0e72aa2d2a9472d3ba2a5893199268cce50051c54e876","features":{"blocking":[],"default":[]},"yanked":false}
