@@ -1,1 +1,2 @@
 {"name":"genotype_lang_rs_core","vers":"0.8.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a748a3d088bc899198c06ac0e173b87626bd9dee5a3638ec470c921d17385dd6","features":{},"yanked":false}
+{"name":"genotype_lang_rs_core","vers":"0.8.1","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"280f625cd78fe819ec7f397f742d6ffc86bc5fd0e4cd698e80d79b29eceea63c","features":{},"yanked":false}
