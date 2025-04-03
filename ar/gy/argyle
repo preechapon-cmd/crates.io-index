@@ -33,3 +33,4 @@
 {"name":"argyle","vers":"0.12.0","deps":[],"cksum":"0547ce666ae0b322bffdb2a4d0c74c943c7d99965aad0f1a50019e7a3487db2b","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"argyle","vers":"0.12.1","deps":[],"cksum":"8baed91435923e83e6f57065e7d046d8f02144b4d19b51c5cef37f341375977e","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.85"}
 {"name":"argyle","vers":"0.12.2","deps":[],"cksum":"9638b1693bb378c5fb5e211e1e5759d2e0ba58b87f4cd474fa9dff97e684fafe","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"argyle","vers":"0.12.3","deps":[],"cksum":"6e17ec63880e086ddf60cedf7adcb0e0689e7455d23e1d7f0d899e4422e25c88","features":{"default":[],"try_paths":[]},"yanked":false,"rust_version":"1.85"}
