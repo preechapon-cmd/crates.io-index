@@ -1,0 +1,1 @@
+{"name":"conststr","vers":"0.0.0","deps":[],"cksum":"acc2846f3ebbb09fd3f3e1a272216898c5f21de1570e2d15b60c1fa845740048","features":{"alloc":[],"std":[]},"yanked":false,"rust_version":"1.86"}
