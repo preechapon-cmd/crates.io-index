@@ -1,0 +1,1 @@
+{"name":"limalloc","vers":"0.0.0","deps":[{"name":"allocator-api2","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15c2f3bd9229964e97471a2f5bc7d4f7e0a1e99dacba137d139d27b3b8d963b3","features":{"allocator_api":["allocator-api2/nightly"]},"yanked":false,"rust_version":"1.82"}
