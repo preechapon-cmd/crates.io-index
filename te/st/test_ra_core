@@ -1,0 +1,1 @@
+{"name":"test_ra_core","vers":"0.2.0-dev.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"128bbcf8353808cc0815033e7d9e60d0ad9468fa29ed2f36b60f69e6717551c7","features":{},"yanked":false}
