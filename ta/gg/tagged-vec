@@ -5,3 +5,4 @@
 {"name":"tagged-vec","vers":"0.3.2","deps":[],"cksum":"8b63b292e79872815d83bd7158fc0429649999c719b0495a67710777a8be2768","features":{},"yanked":false,"rust_version":"1.85.1"}
 {"name":"tagged-vec","vers":"0.3.3","deps":[],"cksum":"c5bde163157ba512f9b70c51530030e87d1f905fc02b5203f90a7f29a1bc1758","features":{},"yanked":false,"rust_version":"1.85.1"}
 {"name":"tagged-vec","vers":"0.3.4","deps":[],"cksum":"0186e0d68b33c29c7020355214763b3a96b9d3a5c6dedb54944a843b9324631c","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"tagged-vec","vers":"0.3.5","deps":[],"cksum":"6fb7bd02ad12c637c3770aa844ea9e3529ee7b23c1f8138e9df7782beab289ee","features":{},"yanked":false,"rust_version":"1.85.1"}
