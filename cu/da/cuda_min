@@ -1,2 +1,3 @@
 {"name":"cuda_min","vers":"0.1.0","deps":[],"cksum":"9eb0988f6583c71b0a4d2dff42f2f526569391561f472350904bdfada3197cb5","features":{},"yanked":true}
 {"name":"cuda_min","vers":"0.1.1","deps":[],"cksum":"ee04a83761aadec6b9d8937c68862a4bf075021f198b59d10c104264faed8efd","features":{},"yanked":false}
+{"name":"cuda_min","vers":"0.1.2-pre1","deps":[],"cksum":"b9a70d382232a39c4071f786b24bd5052082d5601596a34bbc5ec39d25a1948a","features":{"default":["panic_handler"],"panic_handler":[]},"yanked":false}
