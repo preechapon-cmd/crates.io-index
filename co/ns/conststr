@@ -1,1 +1,2 @@
 {"name":"conststr","vers":"0.0.0","deps":[],"cksum":"acc2846f3ebbb09fd3f3e1a272216898c5f21de1570e2d15b60c1fa845740048","features":{"alloc":[],"std":[]},"yanked":false,"rust_version":"1.86"}
+{"name":"conststr","vers":"0.1.0","deps":[{"name":"oct","req":"^0.22","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8a53ee2c47539d7264e7cb60a9bf22622990f512ba151228098bdf1b20a9721","features":{"alloc":[],"std":[]},"features2":{"oct":["dep:oct"]},"yanked":false,"rust_version":"1.86","v":2}
